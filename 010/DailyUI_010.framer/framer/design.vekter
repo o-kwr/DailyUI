@@ -1,0 +1,1766 @@
+{
+  "version" : 20,
+  "root" : {
+    "id" : "wNZhyxaRm",
+    "__class" : "CanvasNode",
+    "parentid" : null,
+    "children" : [
+      {
+        "radius" : 0,
+        "hueRotateEnabled" : 0,
+        "children" : [
+          {
+            "radiusBottomLeft" : 0,
+            "rotation" : 0,
+            "__class" : "RectangleShapeNode",
+            "id" : "cWQCpA5BZ",
+            "strokeWidth" : 1,
+            "fillColor" : "hsl(0, 0%, 100%)",
+            "aspectRatioLocked" : false,
+            "opacity" : 1,
+            "locked" : false,
+            "fillGradient" : {
+              "end" : "rgba(0,0,0,0)",
+              "alpha" : 1,
+              "angle" : 0,
+              "__class" : "LinearGradient",
+              "start" : "black"
+            },
+            "radius" : 0,
+            "strokeDashOffset" : 0,
+            "boxShadows" : [
+              {
+                "x" : 0,
+                "color" : "hsla(0, 0%, 0%, 0.2)",
+                "enabled" : true,
+                "y" : 1,
+                "spread" : 0,
+                "__class" : "BoxShadow",
+                "inset" : false,
+                "blur" : 2
+              }
+            ],
+            "fillType" : "color",
+            "strokeEnabled" : 0,
+            "lineJoin" : "miter",
+            "radiusBottomRight" : 0,
+            "fillEnabled" : true,
+            "parentid" : "Ov8q2jVdU",
+            "strokeDashArray" : "0",
+            "exportOptions" : [
+
+            ],
+            "name" : "button",
+            "height" : 72,
+            "radiusTopRight" : 0,
+            "lineCap" : "butt",
+            "strokeColor" : "#0AF",
+            "strokeAlignment" : "center",
+            "strokeMiterLimit" : 4,
+            "visible" : true,
+            "radiusPerCorner" : false,
+            "radiusTopLeft" : 0,
+            "targetName" : "button",
+            "x" : 220,
+            "width" : 360,
+            "y" : 280
+          },
+          {
+            "sepiaEnabled" : 0,
+            "editable" : false,
+            "rotation" : 0,
+            "blurType" : "layer",
+            "x" : 322,
+            "id" : "b9MnIksjd",
+            "saturateEnabled" : 0,
+            "y" : 300,
+            "grayscale" : 0,
+            "hueRotateEnabled" : 0,
+            "__class" : "TextNode",
+            "widthFactor" : null,
+            "opacity" : 1,
+            "contrastEnabled" : 0,
+            "locked" : false,
+            "left" : null,
+            "styledText" : {
+              "cached" : {
+                "size" : {
+                  "width" : 111,
+                  "height" : 38
+                },
+                "os" : "10_12",
+                "width" : 0,
+                "html" : "<span data-offset-key=\"end8l-0-0\" style=\"tab-size:4;font-family:&quot;SofiaProSoftBold&quot;, &quot;Sofia Pro Soft&quot;, serif;-webkit-text-fill-color:rgba(230, 83, 136, 1.00);font-size:32px;letter-spacing:2px;line-height:1.2;font-weight:700\"><span data-text=\"true\">SHARE<\/span><\/span>"
+              },
+              "entityMap" : {
+
+              },
+              "blocks" : [
+                {
+                  "depth" : 0,
+                  "inlineStyleRanges" : [
+                    {
+                      "length" : 5,
+                      "style" : "LINEHEIGHT:1.2",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 5,
+                      "style" : "LETTERSPACING:2",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 5,
+                      "style" : "COLOR:rgba(230, 83, 136, 1.00)",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 5,
+                      "style" : "ALIGN:center",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 5,
+                      "style" : "FONT:SofiaProSoftBold",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 5,
+                      "style" : "SIZE:32",
+                      "offset" : 0
+                    }
+                  ],
+                  "entityRanges" : [
+
+                  ],
+                  "data" : {
+                    "emptyStyle" : [
+                      "LINEHEIGHT:1.2",
+                      "LETTERSPACING:2",
+                      "COLOR:rgba(230, 83, 136, 1.00)",
+                      "ALIGN:center",
+                      "FONT:SofiaProSoftBold",
+                      "SIZE:32"
+                    ]
+                  },
+                  "text" : "SHARE",
+                  "key" : "end8l",
+                  "type" : "unstyled"
+                }
+              ],
+              "__class" : "StyledTextDraft"
+            },
+            "blendingMode" : "normal",
+            "invert" : 0,
+            "sepia" : 0,
+            "centerAnchorX" : 0.499375,
+            "blurEnabled" : 0,
+            "shadows" : [
+
+            ],
+            "parentid" : "Ov8q2jVdU",
+            "brightnessEnabled" : 0,
+            "exportOptions" : [
+
+            ],
+            "name" : "shareText",
+            "saturate" : 100,
+            "height" : 38,
+            "blendingEnabled" : 0,
+            "top" : null,
+            "constraintsLocked" : false,
+            "right" : null,
+            "visible" : true,
+            "centerAnchorY" : 0.5316666666666666,
+            "contrast" : 100,
+            "grayScaleEnabled" : 0,
+            "hueRotate" : 0,
+            "heightFactor" : null,
+            "targetName" : "shareText",
+            "bottom" : 262,
+            "blur" : 12,
+            "autoSize" : true,
+            "invertEnabled" : 0,
+            "width" : 111,
+            "brightness" : 100
+          },
+          {
+            "sepiaEnabled" : 0,
+            "editable" : false,
+            "rotation" : 0,
+            "blurType" : "layer",
+            "__class" : "TextNode",
+            "id" : "FS3vQAPnF",
+            "saturateEnabled" : 0,
+            "grayscale" : 0,
+            "hueRotateEnabled" : 0,
+            "widthFactor" : null,
+            "opacity" : 1,
+            "contrastEnabled" : 0,
+            "locked" : false,
+            "left" : null,
+            "styledText" : {
+              "cached" : {
+                "size" : {
+                  "width" : 16,
+                  "height" : 24
+                },
+                "os" : "10_12",
+                "width" : 0,
+                "html" : "<span data-offset-key=\"34bvm-0-0\" style=\"tab-size:4;font-family:&quot;FontAwesome5FreeSolid&quot;, &quot;Font Awesome 5 Free&quot;, serif;-webkit-text-fill-color:rgba(230, 83, 136, 1.00);font-size:20px;letter-spacing:0px;line-height:1.2;font-weight:300\"><span data-text=\"true\"><\/span><\/span>"
+              },
+              "entityMap" : {
+
+              },
+              "blocks" : [
+                {
+                  "depth" : 0,
+                  "inlineStyleRanges" : [
+                    {
+                      "length" : 1,
+                      "style" : "FONT:FontAwesome5FreeSolid",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 1,
+                      "style" : "COLOR:rgba(230, 83, 136, 1.00)",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 1,
+                      "style" : "SIZE:20",
+                      "offset" : 0
+                    }
+                  ],
+                  "entityRanges" : [
+
+                  ],
+                  "data" : {
+                    "emptyStyle" : [
+                      "FONT:FontAwesome5FreeSolid",
+                      "COLOR:rgba(230, 83, 136, 1.00)",
+                      "SIZE:20"
+                    ]
+                  },
+                  "text" : "",
+                  "key" : "34bvm",
+                  "type" : "unstyled"
+                }
+              ],
+              "__class" : "StyledTextDraft"
+            },
+            "blendingMode" : "normal",
+            "invert" : 0,
+            "sepia" : 0,
+            "centerAnchorX" : 0.675,
+            "blurEnabled" : 0,
+            "shadows" : [
+
+            ],
+            "parentid" : "Ov8q2jVdU",
+            "brightnessEnabled" : 0,
+            "exportOptions" : [
+
+            ],
+            "name" : "close",
+            "saturate" : 100,
+            "height" : 24,
+            "blendingEnabled" : 0,
+            "top" : 196,
+            "constraintsLocked" : false,
+            "right" : 252,
+            "visible" : true,
+            "centerAnchorY" : 0.3466666666666667,
+            "contrast" : 100,
+            "grayScaleEnabled" : 0,
+            "hueRotate" : 0,
+            "heightFactor" : null,
+            "targetName" : "close_1",
+            "bottom" : null,
+            "blur" : 12,
+            "autoSize" : true,
+            "invertEnabled" : 0,
+            "width" : 16,
+            "brightness" : 100
+          },
+          {
+            "radius" : 0,
+            "hueRotateEnabled" : 0,
+            "children" : [
+              {
+                "sepiaEnabled" : 0,
+                "editable" : false,
+                "rotation" : 0,
+                "blurType" : "layer",
+                "__class" : "TextNode",
+                "id" : "bcS7H9UQF",
+                "saturateEnabled" : 0,
+                "grayscale" : 0,
+                "hueRotateEnabled" : 0,
+                "widthFactor" : null,
+                "opacity" : 1,
+                "contrastEnabled" : 0,
+                "locked" : false,
+                "left" : 0,
+                "styledText" : {
+                  "cached" : {
+                    "size" : {
+                      "width" : 33,
+                      "height" : 43
+                    },
+                    "os" : "10_12",
+                    "width" : 0,
+                    "html" : "<span data-offset-key=\"6bv8i-0-0\" style=\"tab-size:4;font-family:&quot;FontAwesome5BrandsRegular&quot;, &quot;Font Awesome 5 Brands&quot;, serif;-webkit-text-fill-color:#3b5998;font-size:36px;letter-spacing:0px;line-height:1.2;font-weight:400\"><span data-text=\"true\"><\/span><\/span>"
+                  },
+                  "entityMap" : {
+
+                  },
+                  "blocks" : [
+                    {
+                      "depth" : 0,
+                      "inlineStyleRanges" : [
+                        {
+                          "length" : 1,
+                          "style" : "FONT:FontAwesome5BrandsRegular",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 1,
+                          "style" : "COLOR:#3b5998",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 1,
+                          "style" : "SIZE:36",
+                          "offset" : 0
+                        }
+                      ],
+                      "entityRanges" : [
+
+                      ],
+                      "data" : {
+                        "emptyStyle" : [
+                          "FONT:FontAwesome5BrandsRegular",
+                          "COLOR:#3b5998",
+                          "SIZE:36"
+                        ]
+                      },
+                      "text" : "",
+                      "key" : "6bv8i",
+                      "type" : "unstyled"
+                    }
+                  ],
+                  "__class" : "StyledTextDraft"
+                },
+                "blendingMode" : "normal",
+                "invert" : 0,
+                "sepia" : 0,
+                "centerAnchorX" : 0.09428571428571429,
+                "blurEnabled" : 0,
+                "shadows" : [
+
+                ],
+                "parentid" : "tnJreVmsA",
+                "brightnessEnabled" : 0,
+                "exportOptions" : [
+
+                ],
+                "name" : null,
+                "saturate" : 100,
+                "height" : 43,
+                "blendingEnabled" : 0,
+                "top" : 0,
+                "constraintsLocked" : false,
+                "right" : null,
+                "visible" : true,
+                "centerAnchorY" : 0.1168478260869565,
+                "contrast" : 100,
+                "grayScaleEnabled" : 0,
+                "hueRotate" : 0,
+                "heightFactor" : null,
+                "targetName" : null,
+                "bottom" : null,
+                "blur" : 12,
+                "autoSize" : true,
+                "invertEnabled" : 0,
+                "width" : 33,
+                "brightness" : 100
+              },
+              {
+                "sepiaEnabled" : 0,
+                "editable" : false,
+                "rotation" : 0,
+                "blurType" : "layer",
+                "x" : 314,
+                "id" : "ce3G3Gj5G",
+                "saturateEnabled" : 0,
+                "y" : 250,
+                "grayscale" : 0,
+                "hueRotateEnabled" : 0,
+                "__class" : "TextNode",
+                "widthFactor" : null,
+                "opacity" : 1,
+                "contrastEnabled" : 0,
+                "locked" : false,
+                "left" : null,
+                "styledText" : {
+                  "cached" : {
+                    "size" : {
+                      "width" : 122,
+                      "height" : 28
+                    },
+                    "os" : "10_12",
+                    "width" : 0,
+                    "html" : "<span data-offset-key=\"epiio-0-0\" style=\"tab-size:4;font-family:&quot;SofiaProSoftBold&quot;, &quot;Sofia Pro Soft&quot;, serif;-webkit-text-fill-color:hsl(0, 0%, 51%);font-size:24px;letter-spacing:2px;line-height:1.2;font-weight:700\"><span data-text=\"true\">Facebook<\/span><\/span>"
+                  },
+                  "entityMap" : {
+
+                  },
+                  "blocks" : [
+                    {
+                      "depth" : 0,
+                      "inlineStyleRanges" : [
+                        {
+                          "length" : 8,
+                          "style" : "LETTERSPACING:2",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 8,
+                          "style" : "LINEHEIGHT:1.2",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 8,
+                          "style" : "FONT:SofiaProSoftBold",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 8,
+                          "style" : "SIZE:24",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 8,
+                          "style" : "COLOR:hsl(0, 0%, 51%)",
+                          "offset" : 0
+                        }
+                      ],
+                      "entityRanges" : [
+
+                      ],
+                      "data" : {
+                        "emptyStyle" : [
+                          "LETTERSPACING:2",
+                          "LINEHEIGHT:1.2",
+                          "FONT:SofiaProSoftBold",
+                          "SIZE:24",
+                          "COLOR:hsl(0, 0%, 51%)"
+                        ]
+                      },
+                      "text" : "Facebook",
+                      "key" : "epiio",
+                      "type" : "unstyled"
+                    }
+                  ],
+                  "__class" : "StyledTextDraft"
+                },
+                "blendingMode" : "normal",
+                "invert" : 0,
+                "sepia" : 0,
+                "centerAnchorX" : 0.6514285714285715,
+                "blurEnabled" : 0,
+                "shadows" : [
+
+                ],
+                "parentid" : "tnJreVmsA",
+                "brightnessEnabled" : 0,
+                "exportOptions" : [
+
+                ],
+                "name" : null,
+                "saturate" : 100,
+                "height" : 28,
+                "blendingEnabled" : 0,
+                "top" : 10,
+                "constraintsLocked" : false,
+                "right" : 0,
+                "visible" : true,
+                "centerAnchorY" : 0.1304347826086956,
+                "contrast" : 100,
+                "grayScaleEnabled" : 0,
+                "hueRotate" : 0,
+                "heightFactor" : null,
+                "targetName" : null,
+                "bottom" : null,
+                "blur" : 12,
+                "autoSize" : true,
+                "invertEnabled" : 0,
+                "width" : 122,
+                "brightness" : 100
+              },
+              {
+                "sepiaEnabled" : 0,
+                "editable" : false,
+                "rotation" : 0,
+                "blurType" : "layer",
+                "__class" : "TextNode",
+                "id" : "REFNDiMJm",
+                "saturateEnabled" : 0,
+                "grayscale" : 0,
+                "hueRotateEnabled" : 0,
+                "widthFactor" : null,
+                "opacity" : 1,
+                "contrastEnabled" : 0,
+                "locked" : false,
+                "left" : 0,
+                "styledText" : {
+                  "cached" : {
+                    "size" : {
+                      "width" : 33,
+                      "height" : 43
+                    },
+                    "os" : "10_12",
+                    "width" : 0,
+                    "html" : "<span data-offset-key=\"6bv8i-0-0\" style=\"tab-size:4;font-family:&quot;FontAwesome5BrandsRegular&quot;, &quot;Font Awesome 5 Brands&quot;, serif;-webkit-text-fill-color:#00aced;font-size:36px;letter-spacing:0px;line-height:1.2;font-weight:400\"><span data-text=\"true\"><\/span><\/span>"
+                  },
+                  "entityMap" : {
+
+                  },
+                  "blocks" : [
+                    {
+                      "depth" : 0,
+                      "inlineStyleRanges" : [
+                        {
+                          "length" : 1,
+                          "style" : "FONT:FontAwesome5BrandsRegular",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 1,
+                          "style" : "SIZE:36",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 1,
+                          "style" : "COLOR:#00aced",
+                          "offset" : 0
+                        }
+                      ],
+                      "entityRanges" : [
+
+                      ],
+                      "data" : {
+                        "emptyStyle" : [
+                          "FONT:FontAwesome5BrandsRegular",
+                          "SIZE:36",
+                          "COLOR:#00aced"
+                        ]
+                      },
+                      "text" : "",
+                      "key" : "6bv8i",
+                      "type" : "unstyled"
+                    }
+                  ],
+                  "__class" : "StyledTextDraft"
+                },
+                "blendingMode" : "normal",
+                "invert" : 0,
+                "sepia" : 0,
+                "centerAnchorX" : 0.09428571428571429,
+                "blurEnabled" : 0,
+                "shadows" : [
+
+                ],
+                "parentid" : "tnJreVmsA",
+                "brightnessEnabled" : 0,
+                "exportOptions" : [
+
+                ],
+                "name" : null,
+                "saturate" : 100,
+                "height" : 43,
+                "blendingEnabled" : 0,
+                "top" : 47,
+                "constraintsLocked" : false,
+                "right" : null,
+                "visible" : true,
+                "centerAnchorY" : 0.3722826086956522,
+                "contrast" : 100,
+                "grayScaleEnabled" : 0,
+                "hueRotate" : 0,
+                "heightFactor" : null,
+                "targetName" : null,
+                "bottom" : null,
+                "blur" : 12,
+                "autoSize" : true,
+                "invertEnabled" : 0,
+                "width" : 33,
+                "brightness" : 100
+              },
+              {
+                "sepiaEnabled" : 0,
+                "editable" : false,
+                "rotation" : 0,
+                "blurType" : "layer",
+                "x" : 314,
+                "id" : "iwhBDK0ao",
+                "saturateEnabled" : 0,
+                "y" : 250,
+                "grayscale" : 0,
+                "hueRotateEnabled" : 0,
+                "__class" : "TextNode",
+                "widthFactor" : null,
+                "opacity" : 1,
+                "contrastEnabled" : 0,
+                "locked" : false,
+                "left" : null,
+                "styledText" : {
+                  "cached" : {
+                    "size" : {
+                      "width" : 91,
+                      "height" : 28
+                    },
+                    "os" : "10_12",
+                    "width" : 0,
+                    "html" : "<span data-offset-key=\"epiio-0-0\" style=\"tab-size:4;font-family:&quot;SofiaProSoftBold&quot;, &quot;Sofia Pro Soft&quot;, serif;-webkit-text-fill-color:rgba(130, 130, 130, 1.00);font-size:24px;letter-spacing:2px;line-height:1.2;font-weight:700\"><span data-text=\"true\">Twitter<\/span><\/span>"
+                  },
+                  "entityMap" : {
+
+                  },
+                  "blocks" : [
+                    {
+                      "depth" : 0,
+                      "inlineStyleRanges" : [
+                        {
+                          "length" : 7,
+                          "style" : "LETTERSPACING:2",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 7,
+                          "style" : "LINEHEIGHT:1.2",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 7,
+                          "style" : "FONT:SofiaProSoftBold",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 7,
+                          "style" : "SIZE:24",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 7,
+                          "style" : "COLOR:rgba(130, 130, 130, 1.00)",
+                          "offset" : 0
+                        }
+                      ],
+                      "entityRanges" : [
+
+                      ],
+                      "data" : {
+                        "emptyStyle" : [
+                          "LETTERSPACING:2",
+                          "LINEHEIGHT:1.2",
+                          "FONT:SofiaProSoftBold",
+                          "SIZE:24",
+                          "COLOR:rgba(130, 130, 130, 1.00)"
+                        ]
+                      },
+                      "text" : "Twitter",
+                      "key" : "epiio",
+                      "type" : "unstyled"
+                    }
+                  ],
+                  "__class" : "StyledTextDraft"
+                },
+                "blendingMode" : "normal",
+                "invert" : 0,
+                "sepia" : 0,
+                "centerAnchorX" : 0.5628571428571428,
+                "blurEnabled" : 0,
+                "shadows" : [
+
+                ],
+                "parentid" : "tnJreVmsA",
+                "brightnessEnabled" : 0,
+                "exportOptions" : [
+
+                ],
+                "name" : null,
+                "saturate" : 100,
+                "height" : 28,
+                "blendingEnabled" : 0,
+                "top" : 57,
+                "constraintsLocked" : false,
+                "right" : 31,
+                "visible" : true,
+                "centerAnchorY" : 0.3858695652173913,
+                "contrast" : 100,
+                "grayScaleEnabled" : 0,
+                "hueRotate" : 0,
+                "heightFactor" : null,
+                "targetName" : null,
+                "bottom" : null,
+                "blur" : 12,
+                "autoSize" : true,
+                "invertEnabled" : 0,
+                "width" : 91,
+                "brightness" : 100
+              },
+              {
+                "sepiaEnabled" : 0,
+                "editable" : false,
+                "rotation" : 0,
+                "blurType" : "layer",
+                "__class" : "TextNode",
+                "id" : "IdU5nKd5Y",
+                "saturateEnabled" : 0,
+                "grayscale" : 0,
+                "hueRotateEnabled" : 0,
+                "widthFactor" : null,
+                "opacity" : 1,
+                "contrastEnabled" : 0,
+                "locked" : false,
+                "left" : 0,
+                "styledText" : {
+                  "cached" : {
+                    "size" : {
+                      "width" : 33,
+                      "height" : 43
+                    },
+                    "os" : "10_12",
+                    "width" : 0,
+                    "html" : "<span data-offset-key=\"6bv8i-0-0\" style=\"tab-size:4;font-family:&quot;FontAwesome5BrandsRegular&quot;, &quot;Font Awesome 5 Brands&quot;, serif;-webkit-text-fill-color:#d34836;font-size:36px;letter-spacing:0px;line-height:1.2;font-weight:400\"><span data-text=\"true\"><\/span><\/span>"
+                  },
+                  "entityMap" : {
+
+                  },
+                  "blocks" : [
+                    {
+                      "depth" : 0,
+                      "inlineStyleRanges" : [
+                        {
+                          "length" : 1,
+                          "style" : "FONT:FontAwesome5BrandsRegular",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 1,
+                          "style" : "SIZE:36",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 1,
+                          "style" : "COLOR:#d34836",
+                          "offset" : 0
+                        }
+                      ],
+                      "entityRanges" : [
+
+                      ],
+                      "data" : {
+                        "emptyStyle" : [
+                          "FONT:FontAwesome5BrandsRegular",
+                          "SIZE:36",
+                          "COLOR:#d34836"
+                        ]
+                      },
+                      "text" : "",
+                      "key" : "6bv8i",
+                      "type" : "unstyled"
+                    }
+                  ],
+                  "__class" : "StyledTextDraft"
+                },
+                "blendingMode" : "normal",
+                "invert" : 0,
+                "sepia" : 0,
+                "centerAnchorX" : 0.09428571428571429,
+                "blurEnabled" : 0,
+                "shadows" : [
+
+                ],
+                "parentid" : "tnJreVmsA",
+                "brightnessEnabled" : 0,
+                "exportOptions" : [
+
+                ],
+                "name" : null,
+                "saturate" : 100,
+                "height" : 43,
+                "blendingEnabled" : 0,
+                "top" : null,
+                "constraintsLocked" : false,
+                "right" : null,
+                "visible" : true,
+                "centerAnchorY" : 0.6277173913043478,
+                "contrast" : 100,
+                "grayScaleEnabled" : 0,
+                "hueRotate" : 0,
+                "heightFactor" : null,
+                "targetName" : null,
+                "bottom" : 47,
+                "blur" : 12,
+                "autoSize" : true,
+                "invertEnabled" : 0,
+                "width" : 33,
+                "brightness" : 100
+              },
+              {
+                "sepiaEnabled" : 0,
+                "editable" : false,
+                "rotation" : 0,
+                "blurType" : "layer",
+                "x" : 314,
+                "id" : "NBkXEmL5_",
+                "saturateEnabled" : 0,
+                "y" : 250,
+                "grayscale" : 0,
+                "hueRotateEnabled" : 0,
+                "__class" : "TextNode",
+                "widthFactor" : null,
+                "opacity" : 1,
+                "contrastEnabled" : 0,
+                "locked" : false,
+                "left" : null,
+                "styledText" : {
+                  "cached" : {
+                    "size" : {
+                      "width" : 106,
+                      "height" : 28
+                    },
+                    "os" : "10_12",
+                    "width" : 0,
+                    "html" : "<span data-offset-key=\"epiio-0-0\" style=\"tab-size:4;font-family:&quot;SofiaProSoftBold&quot;, &quot;Sofia Pro Soft&quot;, serif;-webkit-text-fill-color:rgba(130, 130, 130, 1.00);font-size:24px;letter-spacing:2px;line-height:1.2;font-weight:700\"><span data-text=\"true\">Google+<\/span><\/span>"
+                  },
+                  "entityMap" : {
+
+                  },
+                  "blocks" : [
+                    {
+                      "depth" : 0,
+                      "inlineStyleRanges" : [
+                        {
+                          "length" : 7,
+                          "style" : "LETTERSPACING:2",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 7,
+                          "style" : "LINEHEIGHT:1.2",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 7,
+                          "style" : "FONT:SofiaProSoftBold",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 7,
+                          "style" : "SIZE:24",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 7,
+                          "style" : "COLOR:rgba(130, 130, 130, 1.00)",
+                          "offset" : 0
+                        }
+                      ],
+                      "entityRanges" : [
+
+                      ],
+                      "data" : {
+                        "emptyStyle" : [
+                          "LETTERSPACING:2",
+                          "LINEHEIGHT:1.2",
+                          "FONT:SofiaProSoftBold",
+                          "SIZE:24",
+                          "COLOR:rgba(130, 130, 130, 1.00)"
+                        ]
+                      },
+                      "text" : "Google+",
+                      "key" : "epiio",
+                      "type" : "unstyled"
+                    }
+                  ],
+                  "__class" : "StyledTextDraft"
+                },
+                "blendingMode" : "normal",
+                "invert" : 0,
+                "sepia" : 0,
+                "centerAnchorX" : 0.6057142857142858,
+                "blurEnabled" : 0,
+                "shadows" : [
+
+                ],
+                "parentid" : "tnJreVmsA",
+                "brightnessEnabled" : 0,
+                "exportOptions" : [
+
+                ],
+                "name" : null,
+                "saturate" : 100,
+                "height" : 28,
+                "blendingEnabled" : 0,
+                "top" : null,
+                "constraintsLocked" : false,
+                "right" : 16,
+                "visible" : true,
+                "centerAnchorY" : 0.6413043478260869,
+                "contrast" : 100,
+                "grayScaleEnabled" : 0,
+                "hueRotate" : 0,
+                "heightFactor" : null,
+                "targetName" : null,
+                "bottom" : 52,
+                "blur" : 12,
+                "autoSize" : true,
+                "invertEnabled" : 0,
+                "width" : 106,
+                "brightness" : 100
+              },
+              {
+                "sepiaEnabled" : 0,
+                "editable" : false,
+                "rotation" : 0,
+                "blurType" : "layer",
+                "__class" : "TextNode",
+                "id" : "N_pmBua1R",
+                "saturateEnabled" : 0,
+                "grayscale" : 0,
+                "hueRotateEnabled" : 0,
+                "widthFactor" : null,
+                "opacity" : 1,
+                "contrastEnabled" : 0,
+                "locked" : false,
+                "left" : 0,
+                "styledText" : {
+                  "cached" : {
+                    "size" : {
+                      "width" : 33,
+                      "height" : 43
+                    },
+                    "os" : "10_12",
+                    "width" : 0,
+                    "html" : "<span data-offset-key=\"6bv8i-0-0\" style=\"tab-size:4;font-family:&quot;FontAwesome5BrandsRegular&quot;, &quot;Font Awesome 5 Brands&quot;, serif;-webkit-text-fill-color:#bd081c;font-size:36px;letter-spacing:0px;line-height:1.2;font-weight:400\"><span data-text=\"true\"><\/span><\/span>"
+                  },
+                  "entityMap" : {
+
+                  },
+                  "blocks" : [
+                    {
+                      "depth" : 0,
+                      "inlineStyleRanges" : [
+                        {
+                          "length" : 1,
+                          "style" : "FONT:FontAwesome5BrandsRegular",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 1,
+                          "style" : "SIZE:36",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 1,
+                          "style" : "COLOR:#bd081c",
+                          "offset" : 0
+                        }
+                      ],
+                      "entityRanges" : [
+
+                      ],
+                      "data" : {
+                        "emptyStyle" : [
+                          "FONT:FontAwesome5BrandsRegular",
+                          "SIZE:36",
+                          "COLOR:#bd081c"
+                        ]
+                      },
+                      "text" : "",
+                      "key" : "6bv8i",
+                      "type" : "unstyled"
+                    }
+                  ],
+                  "__class" : "StyledTextDraft"
+                },
+                "blendingMode" : "normal",
+                "invert" : 0,
+                "sepia" : 0,
+                "centerAnchorX" : 0.09428571428571429,
+                "blurEnabled" : 0,
+                "shadows" : [
+
+                ],
+                "parentid" : "tnJreVmsA",
+                "brightnessEnabled" : 0,
+                "exportOptions" : [
+
+                ],
+                "name" : null,
+                "saturate" : 100,
+                "height" : 43,
+                "blendingEnabled" : 0,
+                "top" : null,
+                "constraintsLocked" : false,
+                "right" : null,
+                "visible" : true,
+                "centerAnchorY" : 0.8831521739130435,
+                "contrast" : 100,
+                "grayScaleEnabled" : 0,
+                "hueRotate" : 0,
+                "heightFactor" : null,
+                "targetName" : null,
+                "bottom" : 0,
+                "blur" : 12,
+                "autoSize" : true,
+                "invertEnabled" : 0,
+                "width" : 33,
+                "brightness" : 100
+              },
+              {
+                "sepiaEnabled" : 0,
+                "editable" : false,
+                "rotation" : 0,
+                "blurType" : "layer",
+                "x" : 314,
+                "id" : "Vv_P60ApS",
+                "saturateEnabled" : 0,
+                "y" : 250,
+                "grayscale" : 0,
+                "hueRotateEnabled" : 0,
+                "__class" : "TextNode",
+                "widthFactor" : null,
+                "opacity" : 1,
+                "contrastEnabled" : 0,
+                "locked" : false,
+                "left" : null,
+                "styledText" : {
+                  "cached" : {
+                    "size" : {
+                      "width" : 117,
+                      "height" : 28
+                    },
+                    "os" : "10_12",
+                    "width" : 0,
+                    "html" : "<span data-offset-key=\"epiio-0-0\" style=\"tab-size:4;font-family:&quot;SofiaProSoftBold&quot;, &quot;Sofia Pro Soft&quot;, serif;-webkit-text-fill-color:rgba(130, 130, 130, 1.00);font-size:24px;letter-spacing:2px;line-height:1.2;font-weight:700\"><span data-text=\"true\">Pinterest<\/span><\/span>"
+                  },
+                  "entityMap" : {
+
+                  },
+                  "blocks" : [
+                    {
+                      "depth" : 0,
+                      "inlineStyleRanges" : [
+                        {
+                          "length" : 9,
+                          "style" : "LETTERSPACING:2",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 9,
+                          "style" : "LINEHEIGHT:1.2",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 9,
+                          "style" : "FONT:SofiaProSoftBold",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 9,
+                          "style" : "SIZE:24",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 9,
+                          "style" : "COLOR:rgba(130, 130, 130, 1.00)",
+                          "offset" : 0
+                        }
+                      ],
+                      "entityRanges" : [
+
+                      ],
+                      "data" : {
+                        "emptyStyle" : [
+                          "LETTERSPACING:2",
+                          "LINEHEIGHT:1.2",
+                          "FONT:SofiaProSoftBold",
+                          "SIZE:24",
+                          "COLOR:rgba(130, 130, 130, 1.00)"
+                        ]
+                      },
+                      "text" : "Pinterest",
+                      "key" : "epiio",
+                      "type" : "unstyled"
+                    }
+                  ],
+                  "__class" : "StyledTextDraft"
+                },
+                "blendingMode" : "normal",
+                "invert" : 0,
+                "sepia" : 0,
+                "centerAnchorX" : 0.6371428571428571,
+                "blurEnabled" : 0,
+                "shadows" : [
+
+                ],
+                "parentid" : "tnJreVmsA",
+                "brightnessEnabled" : 0,
+                "exportOptions" : [
+
+                ],
+                "name" : null,
+                "saturate" : 100,
+                "height" : 28,
+                "blendingEnabled" : 0,
+                "top" : null,
+                "constraintsLocked" : false,
+                "right" : 5,
+                "visible" : true,
+                "centerAnchorY" : 0.8967391304347826,
+                "contrast" : 100,
+                "grayScaleEnabled" : 0,
+                "hueRotate" : 0,
+                "heightFactor" : null,
+                "targetName" : null,
+                "bottom" : 5,
+                "blur" : 12,
+                "autoSize" : true,
+                "invertEnabled" : 0,
+                "width" : 117,
+                "brightness" : 100
+              }
+            ],
+            "centerAnchorX" : 0.421875,
+            "id" : "tnJreVmsA",
+            "exportOptions" : [
+
+            ],
+            "exportIncludesBackground" : true,
+            "grayScaleEnabled" : 0,
+            "constraintsLocked" : false,
+            "blurType" : "layer",
+            "fillColor" : "rgba(255,255,255,1)",
+            "widthFactor" : null,
+            "blendingEnabled" : 0,
+            "grayscale" : 0,
+            "top" : null,
+            "saturate" : 100,
+            "left" : 250,
+            "locked" : false,
+            "sepiaEnabled" : 0,
+            "fillGradient" : {
+              "end" : "rgba(0,0,0,0)",
+              "alpha" : 1,
+              "angle" : 0,
+              "__class" : "LinearGradient",
+              "start" : "black"
+            },
+            "blur" : 12,
+            "radiusTopLeft" : 0,
+            "sepia" : 0,
+            "borderColor" : "#222",
+            "rotation" : 0,
+            "borderLeft" : 1,
+            "fillEnabled" : false,
+            "right" : null,
+            "opacity" : 1,
+            "name" : "social",
+            "blendingMode" : "normal",
+            "contrast" : 100,
+            "centerAnchorY" : 0.5600000000000001,
+            "height" : 184,
+            "borderWidth" : 1,
+            "radiusIsRelative" : false,
+            "hueRotate" : 0,
+            "borderStyle" : "solid",
+            "brightnessEnabled" : 0,
+            "borderPerSide" : false,
+            "saturateEnabled" : 0,
+            "aspectRatioLocked" : false,
+            "borderRight" : 1,
+            "parentid" : "Ov8q2jVdU",
+            "radiusBottomLeft" : 0,
+            "boxShadows" : [
+
+            ],
+            "contrastEnabled" : 0,
+            "borderEnabled" : 0,
+            "radiusPerCorner" : false,
+            "radiusTopRight" : 0,
+            "invert" : 0,
+            "__class" : "FrameNode",
+            "clip" : false,
+            "visible" : true,
+            "fillType" : "color",
+            "invertEnabled" : 0,
+            "heightFactor" : null,
+            "width" : 175,
+            "borderBottom" : 1,
+            "blurEnabled" : 0,
+            "deviceType" : null,
+            "bottom" : 172,
+            "borderTop" : 1,
+            "targetName" : "social",
+            "radiusBottomRight" : 0,
+            "brightness" : 100
+          },
+          {
+            "sepiaEnabled" : 0,
+            "editable" : false,
+            "rotation" : 0,
+            "blurType" : "layer",
+            "x" : 314,
+            "id" : "iFihDXmNz",
+            "saturateEnabled" : 0,
+            "y" : 250,
+            "grayscale" : 0,
+            "hueRotateEnabled" : 0,
+            "__class" : "TextNode",
+            "widthFactor" : null,
+            "opacity" : 1,
+            "contrastEnabled" : 0,
+            "locked" : false,
+            "left" : null,
+            "styledText" : {
+              "cached" : {
+                "size" : {
+                  "width" : 47,
+                  "height" : 28
+                },
+                "os" : "10_12",
+                "width" : 0,
+                "html" : "<span data-offset-key=\"epiio-0-0\" style=\"tab-size:4;font-family:&quot;SofiaProSoftBold&quot;, &quot;Sofia Pro Soft&quot;, serif;-webkit-text-fill-color:rgba(59, 89, 152, 1.00);font-size:24px;letter-spacing:2px;line-height:1.2;font-weight:700\"><span data-text=\"true\">236<\/span><\/span>"
+              },
+              "entityMap" : {
+
+              },
+              "blocks" : [
+                {
+                  "depth" : 0,
+                  "inlineStyleRanges" : [
+                    {
+                      "length" : 3,
+                      "style" : "LETTERSPACING:2",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 3,
+                      "style" : "LINEHEIGHT:1.2",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 3,
+                      "style" : "FONT:SofiaProSoftBold",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 3,
+                      "style" : "SIZE:24",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 3,
+                      "style" : "ALIGN:right",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 3,
+                      "style" : "COLOR:rgba(59, 89, 152, 1.00)",
+                      "offset" : 0
+                    }
+                  ],
+                  "entityRanges" : [
+
+                  ],
+                  "data" : {
+                    "emptyStyle" : [
+                      "LETTERSPACING:2",
+                      "LINEHEIGHT:1.2",
+                      "FONT:SofiaProSoftBold",
+                      "SIZE:24",
+                      "ALIGN:right",
+                      "COLOR:rgba(59, 89, 152, 1.00)"
+                    ]
+                  },
+                  "text" : "236",
+                  "key" : "epiio",
+                  "type" : "unstyled"
+                }
+              ],
+              "__class" : "StyledTextDraft"
+            },
+            "blendingMode" : "normal",
+            "invert" : 0,
+            "sepia" : 0,
+            "centerAnchorX" : 0.655625,
+            "blurEnabled" : 0,
+            "shadows" : [
+
+            ],
+            "parentid" : "Ov8q2jVdU",
+            "brightnessEnabled" : 0,
+            "exportOptions" : [
+
+            ],
+            "name" : "t236",
+            "saturate" : 100,
+            "height" : 28,
+            "blendingEnabled" : 0,
+            "top" : 254,
+            "constraintsLocked" : false,
+            "right" : 252,
+            "visible" : true,
+            "centerAnchorY" : 0.4466666666666667,
+            "contrast" : 100,
+            "grayScaleEnabled" : 0,
+            "hueRotate" : 0,
+            "heightFactor" : null,
+            "targetName" : "t236",
+            "bottom" : null,
+            "blur" : 12,
+            "autoSize" : true,
+            "invertEnabled" : 0,
+            "width" : 47,
+            "brightness" : 100
+          },
+          {
+            "sepiaEnabled" : 0,
+            "editable" : false,
+            "rotation" : 0,
+            "blurType" : "layer",
+            "x" : 314,
+            "id" : "o8mPNdhRg",
+            "saturateEnabled" : 0,
+            "y" : 250,
+            "grayscale" : 0,
+            "hueRotateEnabled" : 0,
+            "__class" : "TextNode",
+            "widthFactor" : null,
+            "opacity" : 1,
+            "contrastEnabled" : 0,
+            "locked" : false,
+            "left" : null,
+            "styledText" : {
+              "cached" : {
+                "size" : {
+                  "width" : 32,
+                  "height" : 28
+                },
+                "os" : "10_12",
+                "width" : 0,
+                "html" : "<span data-offset-key=\"epiio-0-0\" style=\"tab-size:4;font-family:&quot;SofiaProSoftBold&quot;, &quot;Sofia Pro Soft&quot;, serif;-webkit-text-fill-color:rgba(0, 172, 237, 1.00);font-size:24px;letter-spacing:2px;line-height:1.2;font-weight:700\"><span data-text=\"true\">52<\/span><\/span>"
+              },
+              "entityMap" : {
+
+              },
+              "blocks" : [
+                {
+                  "depth" : 0,
+                  "inlineStyleRanges" : [
+                    {
+                      "length" : 2,
+                      "style" : "LETTERSPACING:2",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 2,
+                      "style" : "LINEHEIGHT:1.2",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 2,
+                      "style" : "FONT:SofiaProSoftBold",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 2,
+                      "style" : "SIZE:24",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 2,
+                      "style" : "ALIGN:right",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 2,
+                      "style" : "COLOR:rgba(0, 172, 237, 1.00)",
+                      "offset" : 0
+                    }
+                  ],
+                  "entityRanges" : [
+
+                  ],
+                  "data" : {
+                    "emptyStyle" : [
+                      "LETTERSPACING:2",
+                      "LINEHEIGHT:1.2",
+                      "FONT:SofiaProSoftBold",
+                      "SIZE:24",
+                      "ALIGN:right",
+                      "COLOR:rgba(0, 172, 237, 1.00)"
+                    ]
+                  },
+                  "text" : "52",
+                  "key" : "epiio",
+                  "type" : "unstyled"
+                }
+              ],
+              "__class" : "StyledTextDraft"
+            },
+            "blendingMode" : "normal",
+            "invert" : 0,
+            "sepia" : 0,
+            "centerAnchorX" : 0.665,
+            "blurEnabled" : 0,
+            "shadows" : [
+
+            ],
+            "parentid" : "Ov8q2jVdU",
+            "brightnessEnabled" : 0,
+            "exportOptions" : [
+
+            ],
+            "name" : "t52",
+            "saturate" : 100,
+            "height" : 28,
+            "blendingEnabled" : 0,
+            "top" : null,
+            "constraintsLocked" : false,
+            "right" : 252,
+            "visible" : true,
+            "centerAnchorY" : 0.525,
+            "contrast" : 100,
+            "grayScaleEnabled" : 0,
+            "hueRotate" : 0,
+            "heightFactor" : null,
+            "targetName" : "t52",
+            "bottom" : 271,
+            "blur" : 12,
+            "autoSize" : true,
+            "invertEnabled" : 0,
+            "width" : 32,
+            "brightness" : 100
+          },
+          {
+            "sepiaEnabled" : 0,
+            "editable" : false,
+            "rotation" : 0,
+            "blurType" : "layer",
+            "x" : 314,
+            "id" : "WEcLuSPsJ",
+            "saturateEnabled" : 0,
+            "y" : 250,
+            "grayscale" : 0,
+            "hueRotateEnabled" : 0,
+            "__class" : "TextNode",
+            "widthFactor" : null,
+            "opacity" : 1,
+            "contrastEnabled" : 0,
+            "locked" : false,
+            "left" : null,
+            "styledText" : {
+              "cached" : {
+                "size" : {
+                  "width" : 47,
+                  "height" : 28
+                },
+                "os" : "10_12",
+                "width" : 0,
+                "html" : "<span data-offset-key=\"epiio-0-0\" style=\"tab-size:4;font-family:&quot;SofiaProSoftBold&quot;, &quot;Sofia Pro Soft&quot;, serif;-webkit-text-fill-color:rgba(211, 72, 54, 1.00);font-size:24px;letter-spacing:2px;line-height:1.2;font-weight:700\"><span data-text=\"true\">432<\/span><\/span>"
+              },
+              "entityMap" : {
+
+              },
+              "blocks" : [
+                {
+                  "depth" : 0,
+                  "inlineStyleRanges" : [
+                    {
+                      "length" : 3,
+                      "style" : "LETTERSPACING:2",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 3,
+                      "style" : "LINEHEIGHT:1.2",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 3,
+                      "style" : "FONT:SofiaProSoftBold",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 3,
+                      "style" : "SIZE:24",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 3,
+                      "style" : "ALIGN:right",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 3,
+                      "style" : "COLOR:rgba(211, 72, 54, 1.00)",
+                      "offset" : 0
+                    }
+                  ],
+                  "entityRanges" : [
+
+                  ],
+                  "data" : {
+                    "emptyStyle" : [
+                      "LETTERSPACING:2",
+                      "LINEHEIGHT:1.2",
+                      "FONT:SofiaProSoftBold",
+                      "SIZE:24",
+                      "ALIGN:right",
+                      "COLOR:rgba(211, 72, 54, 1.00)"
+                    ]
+                  },
+                  "text" : "432",
+                  "key" : "epiio",
+                  "type" : "unstyled"
+                }
+              ],
+              "__class" : "StyledTextDraft"
+            },
+            "blendingMode" : "normal",
+            "invert" : 0,
+            "sepia" : 0,
+            "centerAnchorX" : 0.655625,
+            "blurEnabled" : 0,
+            "shadows" : [
+
+            ],
+            "parentid" : "Ov8q2jVdU",
+            "brightnessEnabled" : 0,
+            "exportOptions" : [
+
+            ],
+            "name" : "t432",
+            "saturate" : 100,
+            "height" : 28,
+            "blendingEnabled" : 0,
+            "top" : null,
+            "constraintsLocked" : false,
+            "right" : 252,
+            "visible" : true,
+            "centerAnchorY" : 0.6033333333333334,
+            "contrast" : 100,
+            "grayScaleEnabled" : 0,
+            "hueRotate" : 0,
+            "heightFactor" : null,
+            "targetName" : "t432",
+            "bottom" : 224,
+            "blur" : 12,
+            "autoSize" : true,
+            "invertEnabled" : 0,
+            "width" : 47,
+            "brightness" : 100
+          },
+          {
+            "sepiaEnabled" : 0,
+            "editable" : false,
+            "rotation" : 0,
+            "blurType" : "layer",
+            "x" : 314,
+            "id" : "yQ8Pg_iJq",
+            "saturateEnabled" : 0,
+            "y" : 250,
+            "grayscale" : 0,
+            "hueRotateEnabled" : 0,
+            "__class" : "TextNode",
+            "widthFactor" : null,
+            "opacity" : 1,
+            "contrastEnabled" : 0,
+            "locked" : false,
+            "left" : null,
+            "styledText" : {
+              "cached" : {
+                "size" : {
+                  "width" : 33,
+                  "height" : 28
+                },
+                "os" : "10_12",
+                "width" : 0,
+                "html" : "<span data-offset-key=\"epiio-0-0\" style=\"tab-size:4;font-family:&quot;SofiaProSoftBold&quot;, &quot;Sofia Pro Soft&quot;, serif;-webkit-text-fill-color:rgba(189, 7, 28, 1.00);font-size:24px;letter-spacing:2px;line-height:1.2;font-weight:700\"><span data-text=\"true\">45<\/span><\/span>"
+              },
+              "entityMap" : {
+
+              },
+              "blocks" : [
+                {
+                  "depth" : 0,
+                  "inlineStyleRanges" : [
+                    {
+                      "length" : 2,
+                      "style" : "LETTERSPACING:2",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 2,
+                      "style" : "LINEHEIGHT:1.2",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 2,
+                      "style" : "FONT:SofiaProSoftBold",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 2,
+                      "style" : "SIZE:24",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 2,
+                      "style" : "ALIGN:right",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 2,
+                      "style" : "COLOR:rgba(189, 7, 28, 1.00)",
+                      "offset" : 0
+                    }
+                  ],
+                  "entityRanges" : [
+
+                  ],
+                  "data" : {
+                    "emptyStyle" : [
+                      "LETTERSPACING:2",
+                      "LINEHEIGHT:1.2",
+                      "FONT:SofiaProSoftBold",
+                      "SIZE:24",
+                      "ALIGN:right",
+                      "COLOR:rgba(189, 7, 28, 1.00)"
+                    ]
+                  },
+                  "text" : "45",
+                  "key" : "epiio",
+                  "type" : "unstyled"
+                }
+              ],
+              "__class" : "StyledTextDraft"
+            },
+            "blendingMode" : "normal",
+            "invert" : 0,
+            "sepia" : 0,
+            "centerAnchorX" : 0.664375,
+            "blurEnabled" : 0,
+            "shadows" : [
+
+            ],
+            "parentid" : "Ov8q2jVdU",
+            "brightnessEnabled" : 0,
+            "exportOptions" : [
+
+            ],
+            "name" : "t45",
+            "saturate" : 100,
+            "height" : 28,
+            "blendingEnabled" : 0,
+            "top" : null,
+            "constraintsLocked" : false,
+            "right" : 252,
+            "visible" : true,
+            "centerAnchorY" : 0.6816666666666666,
+            "contrast" : 100,
+            "grayScaleEnabled" : 0,
+            "hueRotate" : 0,
+            "heightFactor" : null,
+            "targetName" : "t45",
+            "bottom" : 177,
+            "blur" : 12,
+            "autoSize" : true,
+            "invertEnabled" : 0,
+            "width" : 33,
+            "brightness" : 100
+          }
+        ],
+        "centerAnchorX" : 0,
+        "id" : "Ov8q2jVdU",
+        "exportOptions" : [
+
+        ],
+        "exportIncludesBackground" : true,
+        "grayScaleEnabled" : 0,
+        "constraintsLocked" : false,
+        "blurType" : "layer",
+        "fillColor" : "hsl(338, 74%, 61%)",
+        "widthFactor" : null,
+        "blendingEnabled" : 0,
+        "grayscale" : 0,
+        "top" : 0,
+        "saturate" : 100,
+        "left" : 0,
+        "locked" : false,
+        "sepiaEnabled" : 0,
+        "fillGradient" : {
+          "end" : "rgba(0,0,0,0)",
+          "alpha" : 1,
+          "angle" : 0,
+          "__class" : "LinearGradient",
+          "start" : "black"
+        },
+        "blur" : 12,
+        "radiusTopLeft" : 0,
+        "sepia" : 0,
+        "borderColor" : "#222",
+        "rotation" : 0,
+        "borderLeft" : 1,
+        "fillEnabled" : true,
+        "right" : null,
+        "opacity" : 1,
+        "name" : null,
+        "blendingMode" : "normal",
+        "contrast" : 100,
+        "centerAnchorY" : 0,
+        "height" : 600,
+        "borderWidth" : 1,
+        "radiusIsRelative" : false,
+        "hueRotate" : 0,
+        "borderStyle" : "solid",
+        "brightnessEnabled" : 0,
+        "borderPerSide" : false,
+        "saturateEnabled" : 0,
+        "aspectRatioLocked" : false,
+        "borderRight" : 1,
+        "parentid" : "wNZhyxaRm",
+        "radiusBottomLeft" : 0,
+        "boxShadows" : [
+
+        ],
+        "contrastEnabled" : 0,
+        "borderEnabled" : 0,
+        "radiusPerCorner" : false,
+        "radiusTopRight" : 0,
+        "invert" : 0,
+        "__class" : "FrameNode",
+        "clip" : true,
+        "visible" : true,
+        "fillType" : "color",
+        "invertEnabled" : 0,
+        "heightFactor" : null,
+        "width" : 800,
+        "borderBottom" : 1,
+        "blurEnabled" : 0,
+        "deviceType" : null,
+        "bottom" : null,
+        "borderTop" : 1,
+        "targetName" : null,
+        "radiusBottomRight" : 0,
+        "brightness" : 100
+      }
+    ]
+  }
+}

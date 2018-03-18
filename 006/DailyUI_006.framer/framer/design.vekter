@@ -1,0 +1,3828 @@
+{
+  "version" : 20,
+  "root" : {
+    "id" : "k0DWlBhnQ",
+    "__class" : "CanvasNode",
+    "parentid" : null,
+    "children" : [
+      {
+        "radius" : 0,
+        "hueRotateEnabled" : 0,
+        "children" : [
+          {
+            "radius" : 0,
+            "hueRotateEnabled" : 0,
+            "children" : [
+              {
+                "radius" : 0,
+                "hueRotateEnabled" : 0,
+                "pixelWidth" : 3258,
+                "children" : [
+
+                ],
+                "centerAnchorX" : 0.5,
+                "id" : "VYx2nEO3s",
+                "exportOptions" : [
+
+                ],
+                "grayScaleEnabled" : 0,
+                "constraintsLocked" : false,
+                "blurType" : "layer",
+                "fillColor" : "transparent",
+                "widthFactor" : null,
+                "blendingEnabled" : 0,
+                "grayscale" : 0,
+                "top" : 0,
+                "saturate" : 100,
+                "left" : 0,
+                "locked" : false,
+                "sepiaEnabled" : 0,
+                "blur" : 12,
+                "sepia" : 0,
+                "radiusTopLeft" : 0,
+                "borderColor" : "#222",
+                "rotation" : 0,
+                "image" : "IBYZlc8LH0a1T7FzdS2A4I3XDPJo7ijv6jjKSLWo6joEWeFkdy4EoOtcevJJPXzq0TMKNuOGTitBPbbkjw.jpg",
+                "borderLeft" : 1,
+                "fillEnabled" : false,
+                "right" : 0,
+                "opacity" : 1,
+                "name" : "b",
+                "blendingMode" : "normal",
+                "originalFilename" : "nigel-tadyanehondo-346809.jpg",
+                "contrast" : 100,
+                "centerAnchorY" : 0.5,
+                "height" : 812,
+                "borderWidth" : 1,
+                "hueRotate" : 0,
+                "borderStyle" : "solid",
+                "pixelHeight" : 5790,
+                "brightnessEnabled" : 0,
+                "borderPerSide" : false,
+                "imageBackgroundSize" : "Cover",
+                "aspectRatioLocked" : true,
+                "borderRight" : 1,
+                "saturateEnabled" : 0,
+                "parentid" : "WukkUy2O1",
+                "intrinsicWidth" : 1629,
+                "radiusBottomLeft" : 0,
+                "boxShadows" : [
+
+                ],
+                "contrastEnabled" : 0,
+                "borderEnabled" : 0,
+                "radiusPerCorner" : false,
+                "radiusTopRight" : 0,
+                "invert" : 0,
+                "__class" : "ImageNode",
+                "clip" : true,
+                "visible" : true,
+                "invertEnabled" : 0,
+                "heightFactor" : null,
+                "width" : 457,
+                "borderBottom" : 1,
+                "intrinsicHeight" : 2895,
+                "blurEnabled" : 0,
+                "bottom" : null,
+                "borderTop" : 1,
+                "targetName" : "b",
+                "radiusBottomRight" : 0,
+                "brightness" : 100
+              }
+            ],
+            "centerAnchorX" : 0.4946666666666666,
+            "id" : "WukkUy2O1",
+            "exportOptions" : [
+
+            ],
+            "exportIncludesBackground" : true,
+            "grayScaleEnabled" : 0,
+            "constraintsLocked" : false,
+            "blurType" : "layer",
+            "fillColor" : "rgba(255,255,255,1)",
+            "widthFactor" : null,
+            "blendingEnabled" : 0,
+            "grayscale" : 0,
+            "top" : 0,
+            "saturate" : 100,
+            "left" : -43,
+            "locked" : false,
+            "sepiaEnabled" : 0,
+            "fillGradient" : {
+              "end" : "rgba(0,0,0,0)",
+              "alpha" : 1,
+              "angle" : 0,
+              "__class" : "LinearGradient",
+              "start" : "black"
+            },
+            "blur" : 12,
+            "radiusTopLeft" : 0,
+            "sepia" : 0,
+            "borderColor" : "#222",
+            "rotation" : 0,
+            "borderLeft" : 1,
+            "fillEnabled" : true,
+            "right" : -39,
+            "opacity" : 1,
+            "name" : null,
+            "blendingMode" : "normal",
+            "contrast" : 100,
+            "centerAnchorY" : 0.5,
+            "height" : 812,
+            "borderWidth" : 1,
+            "radiusIsRelative" : false,
+            "hueRotate" : 0,
+            "borderStyle" : "solid",
+            "brightnessEnabled" : 0,
+            "borderPerSide" : false,
+            "saturateEnabled" : 0,
+            "aspectRatioLocked" : false,
+            "borderRight" : 1,
+            "parentid" : "dttA2_Gnm",
+            "radiusBottomLeft" : 0,
+            "boxShadows" : [
+
+            ],
+            "contrastEnabled" : 0,
+            "borderEnabled" : 0,
+            "radiusPerCorner" : false,
+            "radiusTopRight" : 0,
+            "invert" : 0,
+            "__class" : "FrameNode",
+            "clip" : true,
+            "visible" : true,
+            "fillType" : "color",
+            "invertEnabled" : 0,
+            "heightFactor" : null,
+            "width" : 457,
+            "borderBottom" : 1,
+            "blurEnabled" : 0,
+            "deviceType" : null,
+            "bottom" : 0,
+            "borderTop" : 1,
+            "targetName" : null,
+            "radiusBottomRight" : 0,
+            "brightness" : 100
+          },
+          {
+            "radius" : 0,
+            "hueRotateEnabled" : 0,
+            "pixelWidth" : 375,
+            "children" : [
+
+            ],
+            "centerAnchorX" : 0.5,
+            "id" : "QeJk0KG9I",
+            "exportOptions" : [
+
+            ],
+            "grayScaleEnabled" : 0,
+            "constraintsLocked" : false,
+            "blurType" : "layer",
+            "fillColor" : "transparent",
+            "widthFactor" : null,
+            "blendingEnabled" : 0,
+            "grayscale" : 0,
+            "top" : null,
+            "saturate" : 100,
+            "left" : 0,
+            "locked" : false,
+            "sepiaEnabled" : 0,
+            "blur" : 12,
+            "sepia" : 0,
+            "radiusTopLeft" : 0,
+            "borderColor" : "#222",
+            "rotation" : 0,
+            "image" : "r397Yt8bc9CnbCHWg8x04q5TEzfWDOH1WzGvVy9FujyLjFRFq55J9WIH1SU99NuEIbzcoY3g9pFJnngfF6g.png",
+            "borderLeft" : 1,
+            "fillEnabled" : false,
+            "right" : 0,
+            "opacity" : 1,
+            "name" : "bg",
+            "blendingMode" : "normal",
+            "originalFilename" : "",
+            "contrast" : 100,
+            "centerAnchorY" : 0.7309113300492611,
+            "height" : 437,
+            "borderWidth" : 1,
+            "hueRotate" : 0,
+            "borderStyle" : "solid",
+            "pixelHeight" : 438,
+            "brightnessEnabled" : 0,
+            "borderPerSide" : false,
+            "imageBackgroundSize" : "Cover",
+            "aspectRatioLocked" : true,
+            "borderRight" : 1,
+            "saturateEnabled" : 0,
+            "parentid" : "dttA2_Gnm",
+            "intrinsicWidth" : 187.5,
+            "radiusBottomLeft" : 0,
+            "boxShadows" : [
+
+            ],
+            "contrastEnabled" : 0,
+            "borderEnabled" : 0,
+            "radiusPerCorner" : false,
+            "radiusTopRight" : 0,
+            "invert" : 0,
+            "__class" : "ImageNode",
+            "clip" : true,
+            "visible" : true,
+            "invertEnabled" : 0,
+            "heightFactor" : null,
+            "width" : 375,
+            "borderBottom" : 1,
+            "intrinsicHeight" : 219,
+            "blurEnabled" : 0,
+            "bottom" : 0,
+            "borderTop" : 1,
+            "targetName" : null,
+            "radiusBottomRight" : 0,
+            "brightness" : 100
+          },
+          {
+            "radiusBottomLeft" : 0,
+            "rotation" : 0,
+            "__class" : "RectangleShapeNode",
+            "id" : "UtSEiw1o8",
+            "strokeWidth" : 1,
+            "fillColor" : "rgba(250, 250, 250, 0.85)",
+            "aspectRatioLocked" : false,
+            "opacity" : 1,
+            "locked" : false,
+            "fillGradient" : {
+              "end" : "rgba(0,0,0,0)",
+              "alpha" : 1,
+              "angle" : 0,
+              "__class" : "LinearGradient",
+              "start" : "black"
+            },
+            "radius" : 9,
+            "strokeDashOffset" : 0,
+            "boxShadows" : [
+              {
+                "x" : 0,
+                "color" : "hsla(0, 0%, 0%, 0.15)",
+                "enabled" : true,
+                "y" : 2,
+                "spread" : 0,
+                "__class" : "BoxShadow",
+                "inset" : false,
+                "blur" : 6
+              }
+            ],
+            "fillType" : "color",
+            "strokeEnabled" : 0,
+            "lineJoin" : "miter",
+            "radiusBottomRight" : 8,
+            "fillEnabled" : true,
+            "parentid" : "dttA2_Gnm",
+            "strokeDashArray" : "0",
+            "exportOptions" : [
+
+            ],
+            "name" : null,
+            "height" : 256,
+            "radiusTopRight" : 8,
+            "lineCap" : "butt",
+            "strokeColor" : "#0AF",
+            "strokeAlignment" : "center",
+            "strokeMiterLimit" : 4,
+            "visible" : true,
+            "radiusPerCorner" : true,
+            "radiusTopLeft" : 0,
+            "targetName" : null,
+            "x" : 0,
+            "width" : 105,
+            "y" : 84
+          },
+          {
+            "sepiaEnabled" : 0,
+            "editable" : false,
+            "rotation" : 0,
+            "blurType" : "layer",
+            "__class" : "TextNode",
+            "id" : "qN3X_INzO",
+            "saturateEnabled" : 0,
+            "grayscale" : 0,
+            "hueRotateEnabled" : 0,
+            "widthFactor" : null,
+            "opacity" : 1,
+            "contrastEnabled" : 0,
+            "locked" : false,
+            "left" : 24,
+            "styledText" : {
+              "cached" : {
+                "size" : {
+                  "width" : 28,
+                  "height" : 12
+                },
+                "os" : "10_12",
+                "width" : 0,
+                "html" : "<span data-offset-key=\"6jpg1-0-0\" style=\"tab-size:4;font-family:&quot;ZurichBT-Roman&quot;, &quot;Zurich BT&quot;, serif;-webkit-text-fill-color:hsl(0, 0%, 70%);font-size:10px;letter-spacing:0px;line-height:1.2;font-weight:400\"><span data-text=\"true\">POST<\/span><\/span>"
+              },
+              "entityMap" : {
+
+              },
+              "blocks" : [
+                {
+                  "depth" : 0,
+                  "inlineStyleRanges" : [
+                    {
+                      "length" : 4,
+                      "style" : "LINEHEIGHT:1.2",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 4,
+                      "style" : "FONT:ZurichBT-Roman",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 4,
+                      "style" : "SIZE:10",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 4,
+                      "style" : "COLOR:hsl(0, 0%, 70%)",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 4,
+                      "style" : "LETTERSPACING:0",
+                      "offset" : 0
+                    }
+                  ],
+                  "entityRanges" : [
+
+                  ],
+                  "data" : {
+                    "emptyStyle" : [
+                      "LINEHEIGHT:1.2",
+                      "FONT:ZurichBT-Roman",
+                      "SIZE:10",
+                      "COLOR:hsl(0, 0%, 70%)",
+                      "LETTERSPACING:0"
+                    ]
+                  },
+                  "text" : "POST",
+                  "key" : "6jpg1",
+                  "type" : "unstyled"
+                }
+              ],
+              "__class" : "StyledTextDraft"
+            },
+            "blendingMode" : "normal",
+            "invert" : 0,
+            "sepia" : 0,
+            "centerAnchorX" : 0.1013333333333333,
+            "blurEnabled" : 0,
+            "shadows" : [
+
+            ],
+            "parentid" : "dttA2_Gnm",
+            "brightnessEnabled" : 0,
+            "exportOptions" : [
+
+            ],
+            "name" : null,
+            "saturate" : 100,
+            "height" : 12,
+            "blendingEnabled" : 0,
+            "top" : 136,
+            "constraintsLocked" : false,
+            "right" : null,
+            "visible" : true,
+            "centerAnchorY" : 0.1748768472906404,
+            "contrast" : 100,
+            "grayScaleEnabled" : 0,
+            "hueRotate" : 0,
+            "heightFactor" : null,
+            "targetName" : null,
+            "bottom" : null,
+            "blur" : 12,
+            "autoSize" : true,
+            "invertEnabled" : 0,
+            "width" : 28,
+            "brightness" : 100
+          },
+          {
+            "sepiaEnabled" : 0,
+            "editable" : false,
+            "rotation" : 0,
+            "blurType" : "layer",
+            "__class" : "TextNode",
+            "id" : "y_n_UOxY8",
+            "saturateEnabled" : 0,
+            "grayscale" : 0,
+            "hueRotateEnabled" : 0,
+            "widthFactor" : null,
+            "opacity" : 1,
+            "contrastEnabled" : 0,
+            "locked" : false,
+            "left" : 24,
+            "styledText" : {
+              "cached" : {
+                "size" : {
+                  "width" : 55,
+                  "height" : 12
+                },
+                "os" : "10_12",
+                "width" : 0,
+                "html" : "<span data-offset-key=\"6jpg1-0-0\" style=\"tab-size:4;font-family:&quot;ZurichBT-Roman&quot;, &quot;Zurich BT&quot;, serif;-webkit-text-fill-color:hsl(0, 0%, 70%);font-size:10px;letter-spacing:0px;line-height:1.2;font-weight:400\"><span data-text=\"true\">FOLLOWER<\/span><\/span>"
+              },
+              "entityMap" : {
+
+              },
+              "blocks" : [
+                {
+                  "depth" : 0,
+                  "inlineStyleRanges" : [
+                    {
+                      "length" : 8,
+                      "style" : "LINEHEIGHT:1.2",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 8,
+                      "style" : "FONT:ZurichBT-Roman",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 8,
+                      "style" : "SIZE:10",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 8,
+                      "style" : "COLOR:hsl(0, 0%, 70%)",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 8,
+                      "style" : "LETTERSPACING:0",
+                      "offset" : 0
+                    }
+                  ],
+                  "entityRanges" : [
+
+                  ],
+                  "data" : {
+                    "emptyStyle" : [
+                      "LINEHEIGHT:1.2",
+                      "FONT:ZurichBT-Roman",
+                      "SIZE:10",
+                      "COLOR:hsl(0, 0%, 70%)",
+                      "LETTERSPACING:0"
+                    ]
+                  },
+                  "text" : "FOLLOWER",
+                  "key" : "6jpg1",
+                  "type" : "unstyled"
+                }
+              ],
+              "__class" : "StyledTextDraft"
+            },
+            "blendingMode" : "normal",
+            "invert" : 0,
+            "sepia" : 0,
+            "centerAnchorX" : 0.1373333333333333,
+            "blurEnabled" : 0,
+            "shadows" : [
+
+            ],
+            "parentid" : "dttA2_Gnm",
+            "brightnessEnabled" : 0,
+            "exportOptions" : [
+
+            ],
+            "name" : null,
+            "saturate" : 100,
+            "height" : 12,
+            "blendingEnabled" : 0,
+            "top" : 196,
+            "constraintsLocked" : false,
+            "right" : null,
+            "visible" : true,
+            "centerAnchorY" : 0.2487684729064039,
+            "contrast" : 100,
+            "grayScaleEnabled" : 0,
+            "hueRotate" : 0,
+            "heightFactor" : null,
+            "targetName" : null,
+            "bottom" : null,
+            "blur" : 12,
+            "autoSize" : true,
+            "invertEnabled" : 0,
+            "width" : 55,
+            "brightness" : 100
+          },
+          {
+            "radius" : 0,
+            "hueRotateEnabled" : 0,
+            "children" : [
+              {
+                "sepiaEnabled" : 0,
+                "editable" : false,
+                "rotation" : 0,
+                "blurType" : "layer",
+                "__class" : "TextNode",
+                "id" : "LBlYqLKli",
+                "saturateEnabled" : 0,
+                "grayscale" : 0,
+                "hueRotateEnabled" : 0,
+                "widthFactor" : null,
+                "opacity" : 1,
+                "contrastEnabled" : 0,
+                "locked" : false,
+                "left" : 0,
+                "styledText" : {
+                  "cached" : {
+                    "size" : {
+                      "width" : 38,
+                      "height" : 24
+                    },
+                    "os" : "10_12",
+                    "width" : 0,
+                    "html" : "<span data-offset-key=\"ap0ld-0-0\" style=\"tab-size:4;font-family:&quot;ZurichBT-Bold&quot;, &quot;Zurich BT&quot;, serif;-webkit-text-fill-color:hsl(0, 0%, 43%);font-size:20px;letter-spacing:1px;line-height:1.2;font-weight:700\"><span data-text=\"true\">658<\/span><\/span>"
+                  },
+                  "entityMap" : {
+
+                  },
+                  "blocks" : [
+                    {
+                      "depth" : 0,
+                      "inlineStyleRanges" : [
+                        {
+                          "length" : 3,
+                          "style" : "LINEHEIGHT:1.2",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 3,
+                          "style" : "LETTERSPACING:1",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 3,
+                          "style" : "COLOR:hsl(0, 0%, 43%)",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 3,
+                          "style" : "FONT:ZurichBT-Bold",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 3,
+                          "style" : "SIZE:20",
+                          "offset" : 0
+                        }
+                      ],
+                      "entityRanges" : [
+
+                      ],
+                      "data" : {
+                        "emptyStyle" : [
+                          "LINEHEIGHT:1.2",
+                          "LETTERSPACING:1",
+                          "COLOR:hsl(0, 0%, 43%)",
+                          "FONT:ZurichBT-Bold",
+                          "SIZE:20"
+                        ]
+                      },
+                      "text" : "658",
+                      "key" : "ap0ld",
+                      "type" : "unstyled"
+                    }
+                  ],
+                  "__class" : "StyledTextDraft"
+                },
+                "blendingMode" : "normal",
+                "invert" : 0,
+                "sepia" : 0,
+                "centerAnchorX" : 0.3392857142857143,
+                "blurEnabled" : 0,
+                "shadows" : [
+
+                ],
+                "parentid" : "IPVZrqthK",
+                "brightnessEnabled" : 0,
+                "exportOptions" : [
+
+                ],
+                "name" : null,
+                "saturate" : 100,
+                "height" : 24,
+                "blendingEnabled" : 0,
+                "top" : 0,
+                "constraintsLocked" : false,
+                "right" : null,
+                "visible" : true,
+                "centerAnchorY" : 0.08333333333333333,
+                "contrast" : 100,
+                "grayScaleEnabled" : 0,
+                "hueRotate" : 0,
+                "heightFactor" : null,
+                "targetName" : null,
+                "bottom" : null,
+                "blur" : 12,
+                "autoSize" : true,
+                "invertEnabled" : 0,
+                "width" : 38,
+                "brightness" : 100
+              },
+              {
+                "sepiaEnabled" : 0,
+                "editable" : false,
+                "rotation" : 0,
+                "blurType" : "layer",
+                "__class" : "TextNode",
+                "id" : "mG1yN2g6e",
+                "saturateEnabled" : 0,
+                "grayscale" : 0,
+                "hueRotateEnabled" : 0,
+                "widthFactor" : null,
+                "opacity" : 1,
+                "contrastEnabled" : 0,
+                "locked" : false,
+                "left" : null,
+                "styledText" : {
+                  "cached" : {
+                    "size" : {
+                      "width" : 38,
+                      "height" : 24
+                    },
+                    "os" : "10_12",
+                    "width" : 0,
+                    "html" : "<span data-offset-key=\"ap0ld-0-0\" style=\"tab-size:4;font-family:&quot;ZurichBT-Bold&quot;, &quot;Zurich BT&quot;, serif;-webkit-text-fill-color:hsl(0, 0%, 43%);font-size:20px;letter-spacing:1px;line-height:1.2;font-weight:700\"><span data-text=\"true\">138<\/span><\/span>"
+                  },
+                  "entityMap" : {
+
+                  },
+                  "blocks" : [
+                    {
+                      "depth" : 0,
+                      "inlineStyleRanges" : [
+                        {
+                          "length" : 3,
+                          "style" : "LINEHEIGHT:1.2",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 3,
+                          "style" : "LETTERSPACING:1",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 3,
+                          "style" : "COLOR:hsl(0, 0%, 43%)",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 3,
+                          "style" : "FONT:ZurichBT-Bold",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 3,
+                          "style" : "SIZE:20",
+                          "offset" : 0
+                        }
+                      ],
+                      "entityRanges" : [
+
+                      ],
+                      "data" : {
+                        "emptyStyle" : [
+                          "LINEHEIGHT:1.2",
+                          "LETTERSPACING:1",
+                          "COLOR:hsl(0, 0%, 43%)",
+                          "FONT:ZurichBT-Bold",
+                          "SIZE:20"
+                        ]
+                      },
+                      "text" : "138",
+                      "key" : "ap0ld",
+                      "type" : "unstyled"
+                    }
+                  ],
+                  "__class" : "StyledTextDraft"
+                },
+                "blendingMode" : "normal",
+                "invert" : 0,
+                "sepia" : 0,
+                "centerAnchorX" : 0.3392857142857143,
+                "blurEnabled" : 0,
+                "shadows" : [
+
+                ],
+                "parentid" : "IPVZrqthK",
+                "brightnessEnabled" : 0,
+                "exportOptions" : [
+
+                ],
+                "name" : null,
+                "saturate" : 100,
+                "height" : 24,
+                "blendingEnabled" : 0,
+                "top" : null,
+                "constraintsLocked" : false,
+                "right" : null,
+                "visible" : true,
+                "centerAnchorY" : 0.5,
+                "contrast" : 100,
+                "grayScaleEnabled" : 0,
+                "hueRotate" : 0,
+                "heightFactor" : null,
+                "targetName" : null,
+                "bottom" : null,
+                "blur" : 12,
+                "autoSize" : true,
+                "invertEnabled" : 0,
+                "width" : 38,
+                "brightness" : 100
+              },
+              {
+                "sepiaEnabled" : 0,
+                "editable" : false,
+                "rotation" : 0,
+                "blurType" : "layer",
+                "__class" : "TextNode",
+                "id" : "kTB6gJL9Y",
+                "saturateEnabled" : 0,
+                "grayscale" : 0,
+                "hueRotateEnabled" : 0,
+                "widthFactor" : null,
+                "opacity" : 1,
+                "contrastEnabled" : 0,
+                "locked" : false,
+                "left" : 0,
+                "styledText" : {
+                  "cached" : {
+                    "size" : {
+                      "width" : 26,
+                      "height" : 24
+                    },
+                    "os" : "10_12",
+                    "width" : 0,
+                    "html" : "<span data-offset-key=\"ap0ld-0-0\" style=\"tab-size:4;font-family:&quot;ZurichBT-Bold&quot;, &quot;Zurich BT&quot;, serif;-webkit-text-fill-color:hsl(0, 0%, 43%);font-size:20px;letter-spacing:1px;line-height:1.2;font-weight:700\"><span data-text=\"true\">94<\/span><\/span>"
+                  },
+                  "entityMap" : {
+
+                  },
+                  "blocks" : [
+                    {
+                      "depth" : 0,
+                      "inlineStyleRanges" : [
+                        {
+                          "length" : 2,
+                          "style" : "LINEHEIGHT:1.2",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 2,
+                          "style" : "LETTERSPACING:1",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 2,
+                          "style" : "COLOR:hsl(0, 0%, 43%)",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 2,
+                          "style" : "FONT:ZurichBT-Bold",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 2,
+                          "style" : "SIZE:20",
+                          "offset" : 0
+                        }
+                      ],
+                      "entityRanges" : [
+
+                      ],
+                      "data" : {
+                        "emptyStyle" : [
+                          "LINEHEIGHT:1.2",
+                          "LETTERSPACING:1",
+                          "COLOR:hsl(0, 0%, 43%)",
+                          "FONT:ZurichBT-Bold",
+                          "SIZE:20"
+                        ]
+                      },
+                      "text" : "94",
+                      "key" : "ap0ld",
+                      "type" : "unstyled"
+                    }
+                  ],
+                  "__class" : "StyledTextDraft"
+                },
+                "blendingMode" : "normal",
+                "invert" : 0,
+                "sepia" : 0,
+                "centerAnchorX" : 0.3392857142857143,
+                "blurEnabled" : 0,
+                "shadows" : [
+
+                ],
+                "parentid" : "IPVZrqthK",
+                "brightnessEnabled" : 0,
+                "exportOptions" : [
+
+                ],
+                "name" : null,
+                "saturate" : 100,
+                "height" : 24,
+                "blendingEnabled" : 0,
+                "top" : null,
+                "constraintsLocked" : false,
+                "right" : null,
+                "visible" : true,
+                "centerAnchorY" : 0.9166666666666666,
+                "contrast" : 100,
+                "grayScaleEnabled" : 0,
+                "hueRotate" : 0,
+                "heightFactor" : null,
+                "targetName" : null,
+                "bottom" : 0,
+                "blur" : 12,
+                "autoSize" : true,
+                "invertEnabled" : 0,
+                "width" : 26,
+                "brightness" : 100
+              }
+            ],
+            "centerAnchorX" : 0.1386666666666667,
+            "id" : "IPVZrqthK",
+            "exportOptions" : [
+
+            ],
+            "exportIncludesBackground" : true,
+            "grayScaleEnabled" : 0,
+            "constraintsLocked" : false,
+            "blurType" : "layer",
+            "fillColor" : "rgba(255,255,255,1)",
+            "widthFactor" : null,
+            "blendingEnabled" : 0,
+            "grayscale" : 0,
+            "top" : 108,
+            "saturate" : 100,
+            "left" : 24,
+            "locked" : false,
+            "sepiaEnabled" : 0,
+            "fillGradient" : {
+              "end" : "rgba(0,0,0,0)",
+              "alpha" : 1,
+              "angle" : 0,
+              "__class" : "LinearGradient",
+              "start" : "black"
+            },
+            "blur" : 12,
+            "radiusTopLeft" : 0,
+            "sepia" : 0,
+            "borderColor" : "#222",
+            "rotation" : 0,
+            "borderLeft" : 1,
+            "fillEnabled" : false,
+            "right" : null,
+            "opacity" : 1,
+            "name" : null,
+            "blendingMode" : "normal",
+            "contrast" : 100,
+            "centerAnchorY" : 0.2216748768472906,
+            "height" : 144,
+            "borderWidth" : 1,
+            "radiusIsRelative" : false,
+            "hueRotate" : 0,
+            "borderStyle" : "solid",
+            "brightnessEnabled" : 0,
+            "borderPerSide" : false,
+            "saturateEnabled" : 0,
+            "aspectRatioLocked" : false,
+            "borderRight" : 1,
+            "parentid" : "dttA2_Gnm",
+            "radiusBottomLeft" : 0,
+            "boxShadows" : [
+
+            ],
+            "contrastEnabled" : 0,
+            "borderEnabled" : 0,
+            "radiusPerCorner" : false,
+            "radiusTopRight" : 0,
+            "invert" : 0,
+            "__class" : "FrameNode",
+            "clip" : false,
+            "visible" : true,
+            "fillType" : "color",
+            "invertEnabled" : 0,
+            "heightFactor" : null,
+            "width" : 56,
+            "borderBottom" : 1,
+            "blurEnabled" : 0,
+            "deviceType" : null,
+            "bottom" : null,
+            "borderTop" : 1,
+            "targetName" : null,
+            "radiusBottomRight" : 0,
+            "brightness" : 100
+          },
+          {
+            "sepiaEnabled" : 0,
+            "editable" : false,
+            "rotation" : 0,
+            "blurType" : "layer",
+            "__class" : "TextNode",
+            "id" : "VIntOqZNU",
+            "saturateEnabled" : 0,
+            "grayscale" : 0,
+            "hueRotateEnabled" : 0,
+            "widthFactor" : null,
+            "opacity" : 1,
+            "contrastEnabled" : 0,
+            "locked" : false,
+            "left" : 24,
+            "styledText" : {
+              "cached" : {
+                "size" : {
+                  "width" : 43,
+                  "height" : 12
+                },
+                "os" : "10_12",
+                "width" : 0,
+                "html" : "<span data-offset-key=\"6jpg1-0-0\" style=\"tab-size:4;font-family:&quot;ZurichBT-Roman&quot;, &quot;Zurich BT&quot;, serif;-webkit-text-fill-color:hsl(0, 0%, 70%);font-size:10px;letter-spacing:0px;line-height:1.2;font-weight:400\"><span data-text=\"true\">FOLLOW<\/span><\/span>"
+              },
+              "entityMap" : {
+
+              },
+              "blocks" : [
+                {
+                  "depth" : 0,
+                  "inlineStyleRanges" : [
+                    {
+                      "style" : "LINEHEIGHT:1.2",
+                      "offset" : 0,
+                      "length" : 6
+                    },
+                    {
+                      "style" : "FONT:ZurichBT-Roman",
+                      "offset" : 0,
+                      "length" : 6
+                    },
+                    {
+                      "style" : "SIZE:10",
+                      "offset" : 0,
+                      "length" : 6
+                    },
+                    {
+                      "style" : "COLOR:hsl(0, 0%, 70%)",
+                      "offset" : 0,
+                      "length" : 6
+                    },
+                    {
+                      "style" : "LETTERSPACING:0",
+                      "offset" : 0,
+                      "length" : 6
+                    }
+                  ],
+                  "entityRanges" : [
+
+                  ],
+                  "data" : {
+                    "emptyStyle" : [
+                      "LINEHEIGHT:1.2",
+                      "FONT:ZurichBT-Roman",
+                      "SIZE:10",
+                      "COLOR:hsl(0, 0%, 70%)",
+                      "LETTERSPACING:0"
+                    ]
+                  },
+                  "text" : "FOLLOW",
+                  "key" : "6jpg1",
+                  "type" : "unstyled"
+                }
+              ],
+              "__class" : "StyledTextDraft"
+            },
+            "blendingMode" : "normal",
+            "invert" : 0,
+            "sepia" : 0,
+            "centerAnchorX" : 0.1213333333333333,
+            "blurEnabled" : 0,
+            "shadows" : [
+
+            ],
+            "parentid" : "dttA2_Gnm",
+            "brightnessEnabled" : 0,
+            "exportOptions" : [
+
+            ],
+            "name" : null,
+            "saturate" : 100,
+            "height" : 12,
+            "blendingEnabled" : 0,
+            "top" : 256,
+            "constraintsLocked" : false,
+            "right" : null,
+            "visible" : true,
+            "centerAnchorY" : 0.3226600985221675,
+            "contrast" : 100,
+            "grayScaleEnabled" : 0,
+            "hueRotate" : 0,
+            "heightFactor" : null,
+            "targetName" : null,
+            "bottom" : null,
+            "blur" : 12,
+            "autoSize" : true,
+            "invertEnabled" : 0,
+            "width" : 43,
+            "brightness" : 100
+          },
+          {
+            "sepiaEnabled" : 0,
+            "editable" : false,
+            "rotation" : 0,
+            "blurType" : "layer",
+            "__class" : "TextNode",
+            "id" : "kWrHc0CCy",
+            "saturateEnabled" : 0,
+            "grayscale" : 0,
+            "hueRotateEnabled" : 0,
+            "widthFactor" : null,
+            "opacity" : 1,
+            "contrastEnabled" : 0,
+            "locked" : false,
+            "left" : 24,
+            "styledText" : {
+              "cached" : {
+                "size" : {
+                  "width" : 169,
+                  "height" : 24
+                },
+                "os" : "10_12",
+                "width" : 0,
+                "html" : "<span data-offset-key=\"3l32r-0-0\" style=\"tab-size:4;font-family:&quot;MaterialIcons-Regular&quot;, &quot;Material Icons&quot;, serif;-webkit-text-fill-color:hsl(0, 0%, 43%);font-size:20px;letter-spacing:1px;line-height:1.2;font-weight:400\"><span data-text=\"true\">settings<\/span><\/span>"
+              },
+              "entityMap" : {
+
+              },
+              "blocks" : [
+                {
+                  "depth" : 0,
+                  "inlineStyleRanges" : [
+                    {
+                      "style" : "COLOR:hsl(0, 0%, 43%)",
+                      "offset" : 0,
+                      "length" : 8
+                    },
+                    {
+                      "style" : "LETTERSPACING:1",
+                      "offset" : 0,
+                      "length" : 8
+                    },
+                    {
+                      "style" : "LINEHEIGHT:1.2",
+                      "offset" : 0,
+                      "length" : 8
+                    },
+                    {
+                      "style" : "FONT:MaterialIcons-Regular",
+                      "offset" : 0,
+                      "length" : 8
+                    },
+                    {
+                      "style" : "ALIGN:left",
+                      "offset" : 0,
+                      "length" : 8
+                    },
+                    {
+                      "style" : "SIZE:20",
+                      "offset" : 0,
+                      "length" : 8
+                    }
+                  ],
+                  "entityRanges" : [
+
+                  ],
+                  "data" : {
+                    "emptyStyle" : [
+                      "COLOR:hsl(0, 0%, 43%)",
+                      "LETTERSPACING:1",
+                      "LINEHEIGHT:1.2",
+                      "FONT:MaterialIcons-Regular",
+                      "ALIGN:left",
+                      "SIZE:20"
+                    ]
+                  },
+                  "text" : "settings",
+                  "key" : "3l32r",
+                  "type" : "unstyled"
+                }
+              ],
+              "__class" : "StyledTextDraft"
+            },
+            "blendingMode" : "normal",
+            "invert" : 0,
+            "sepia" : 0,
+            "centerAnchorX" : 0.2893333333333333,
+            "blurEnabled" : 0,
+            "shadows" : [
+
+            ],
+            "parentid" : "dttA2_Gnm",
+            "brightnessEnabled" : 0,
+            "exportOptions" : [
+
+            ],
+            "name" : null,
+            "saturate" : 100,
+            "height" : 24,
+            "blendingEnabled" : 0,
+            "top" : 288,
+            "constraintsLocked" : false,
+            "right" : null,
+            "visible" : true,
+            "centerAnchorY" : 0.3694581280788177,
+            "contrast" : 100,
+            "grayScaleEnabled" : 0,
+            "hueRotate" : 0,
+            "heightFactor" : null,
+            "targetName" : null,
+            "bottom" : null,
+            "blur" : 12,
+            "autoSize" : true,
+            "invertEnabled" : 0,
+            "width" : 169,
+            "brightness" : 100
+          },
+          {
+            "sepiaEnabled" : 0,
+            "editable" : false,
+            "rotation" : 0,
+            "blurType" : "layer",
+            "__class" : "TextNode",
+            "id" : "sgqdknTM_",
+            "saturateEnabled" : 0,
+            "grayscale" : 0,
+            "hueRotateEnabled" : 0,
+            "widthFactor" : null,
+            "opacity" : 1,
+            "contrastEnabled" : 0,
+            "locked" : false,
+            "left" : 32,
+            "styledText" : {
+              "cached" : {
+                "size" : {
+                  "width" : 100,
+                  "height" : 16
+                },
+                "os" : "10_12",
+                "width" : 0,
+                "html" : "<span data-offset-key=\"7eqav-0-0\" style=\"tab-size:4;font-family:&quot;ZurichBT-Roman&quot;, &quot;Zurich BT&quot;, serif;-webkit-text-fill-color:hsl(0, 0%, 70%);font-size:14px;letter-spacing:1px;line-height:1.2;font-weight:400\"><span data-text=\"true\">Tokyo, Japan<\/span><\/span>"
+              },
+              "entityMap" : {
+
+              },
+              "blocks" : [
+                {
+                  "depth" : 0,
+                  "inlineStyleRanges" : [
+                    {
+                      "style" : "LETTERSPACING:1",
+                      "offset" : 0,
+                      "length" : 12
+                    },
+                    {
+                      "style" : "LINEHEIGHT:1.2",
+                      "offset" : 0,
+                      "length" : 12
+                    },
+                    {
+                      "style" : "FONT:ZurichBT-Roman",
+                      "offset" : 0,
+                      "length" : 12
+                    },
+                    {
+                      "style" : "SIZE:14",
+                      "offset" : 0,
+                      "length" : 12
+                    },
+                    {
+                      "style" : "COLOR:hsl(0, 0%, 70%)",
+                      "offset" : 0,
+                      "length" : 12
+                    }
+                  ],
+                  "entityRanges" : [
+
+                  ],
+                  "data" : {
+                    "emptyStyle" : [
+                      "LETTERSPACING:1",
+                      "LINEHEIGHT:1.2",
+                      "FONT:ZurichBT-Roman",
+                      "SIZE:14",
+                      "COLOR:hsl(0, 0%, 70%)"
+                    ]
+                  },
+                  "text" : "Tokyo, Japan",
+                  "key" : "7eqav",
+                  "type" : "unstyled"
+                }
+              ],
+              "__class" : "StyledTextDraft"
+            },
+            "blendingMode" : "normal",
+            "invert" : 0,
+            "sepia" : 0,
+            "centerAnchorX" : 0.2186666666666667,
+            "blurEnabled" : 0,
+            "shadows" : [
+
+            ],
+            "parentid" : "dttA2_Gnm",
+            "brightnessEnabled" : 0,
+            "exportOptions" : [
+
+            ],
+            "name" : null,
+            "saturate" : 100,
+            "height" : 16,
+            "blendingEnabled" : 0,
+            "top" : null,
+            "constraintsLocked" : false,
+            "right" : null,
+            "visible" : true,
+            "centerAnchorY" : 0.9137931034482759,
+            "contrast" : 100,
+            "grayScaleEnabled" : 0,
+            "hueRotate" : 0,
+            "heightFactor" : null,
+            "targetName" : null,
+            "bottom" : 62,
+            "blur" : 12,
+            "autoSize" : true,
+            "invertEnabled" : 0,
+            "width" : 100,
+            "brightness" : 100
+          },
+          {
+            "sepiaEnabled" : 0,
+            "editable" : false,
+            "rotation" : 0,
+            "blurType" : "layer",
+            "__class" : "TextNode",
+            "id" : "uG5UOGRCo",
+            "saturateEnabled" : 0,
+            "grayscale" : 0,
+            "hueRotateEnabled" : 0,
+            "widthFactor" : null,
+            "opacity" : 1,
+            "contrastEnabled" : 0,
+            "locked" : false,
+            "left" : 32,
+            "styledText" : {
+              "cached" : {
+                "size" : {
+                  "width" : 137,
+                  "height" : 21
+                },
+                "os" : "10_12",
+                "width" : 0,
+                "html" : "<span data-offset-key=\"7eqav-0-0\" style=\"tab-size:4;font-family:&quot;ZurichBT-Bold&quot;, &quot;Zurich BT&quot;, serif;-webkit-text-fill-color:hsl(0, 0%, 100%);font-size:18px;letter-spacing:1px;line-height:1.2;font-weight:700\"><span data-text=\"true\">James Morton<\/span><\/span>"
+              },
+              "entityMap" : {
+
+              },
+              "blocks" : [
+                {
+                  "depth" : 0,
+                  "inlineStyleRanges" : [
+                    {
+                      "length" : 12,
+                      "style" : "LETTERSPACING:1",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 12,
+                      "style" : "LINEHEIGHT:1.2",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 12,
+                      "style" : "COLOR:hsl(0, 0%, 100%)",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 12,
+                      "style" : "FONT:ZurichBT-Bold",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 12,
+                      "style" : "SIZE:18",
+                      "offset" : 0
+                    }
+                  ],
+                  "entityRanges" : [
+
+                  ],
+                  "data" : {
+                    "emptyStyle" : [
+                      "LETTERSPACING:1",
+                      "LINEHEIGHT:1.2",
+                      "COLOR:hsl(0, 0%, 100%)",
+                      "FONT:ZurichBT-Bold",
+                      "SIZE:18"
+                    ]
+                  },
+                  "text" : "James Morton",
+                  "key" : "7eqav",
+                  "type" : "unstyled"
+                }
+              ],
+              "__class" : "StyledTextDraft"
+            },
+            "blendingMode" : "normal",
+            "invert" : 0,
+            "sepia" : 0,
+            "centerAnchorX" : 0.268,
+            "blurEnabled" : 0,
+            "shadows" : [
+
+            ],
+            "parentid" : "dttA2_Gnm",
+            "brightnessEnabled" : 0,
+            "exportOptions" : [
+
+            ],
+            "name" : null,
+            "saturate" : 100,
+            "height" : 21,
+            "blendingEnabled" : 0,
+            "top" : null,
+            "constraintsLocked" : false,
+            "right" : null,
+            "visible" : true,
+            "centerAnchorY" : 0.8860837438423645,
+            "contrast" : 100,
+            "grayScaleEnabled" : 0,
+            "hueRotate" : 0,
+            "heightFactor" : null,
+            "targetName" : null,
+            "bottom" : 82,
+            "blur" : 12,
+            "autoSize" : true,
+            "invertEnabled" : 0,
+            "width" : 137,
+            "brightness" : 100
+          },
+          {
+            "radiusBottomLeft" : 20,
+            "rotation" : 0,
+            "__class" : "RectangleShapeNode",
+            "id" : "Yy7dK_XnF",
+            "strokeWidth" : 1,
+            "fillColor" : "#E87161",
+            "aspectRatioLocked" : false,
+            "opacity" : 1,
+            "locked" : false,
+            "fillGradient" : {
+              "end" : "rgba(0,0,0,0)",
+              "alpha" : 1,
+              "angle" : 0,
+              "__class" : "LinearGradient",
+              "start" : "black"
+            },
+            "radius" : 20,
+            "strokeDashOffset" : 0,
+            "boxShadows" : [
+
+            ],
+            "fillType" : "color",
+            "strokeEnabled" : 0,
+            "lineJoin" : "miter",
+            "radiusBottomRight" : 20,
+            "fillEnabled" : true,
+            "parentid" : "dttA2_Gnm",
+            "strokeDashArray" : "0",
+            "exportOptions" : [
+
+            ],
+            "name" : null,
+            "height" : 40,
+            "radiusTopRight" : 20,
+            "lineCap" : "butt",
+            "strokeColor" : "#0AF",
+            "strokeAlignment" : "center",
+            "strokeMiterLimit" : 4,
+            "visible" : true,
+            "radiusPerCorner" : false,
+            "radiusTopLeft" : 20,
+            "targetName" : null,
+            "x" : 227,
+            "width" : 120,
+            "y" : 709
+          },
+          {
+            "sepiaEnabled" : 0,
+            "editable" : false,
+            "rotation" : 0,
+            "blurType" : "layer",
+            "__class" : "TextNode",
+            "id" : "FG8SpCmMd",
+            "saturateEnabled" : 0,
+            "grayscale" : 0,
+            "hueRotateEnabled" : 0,
+            "widthFactor" : null,
+            "opacity" : 1,
+            "contrastEnabled" : 0,
+            "locked" : false,
+            "left" : null,
+            "styledText" : {
+              "cached" : {
+                "size" : {
+                  "width" : 74,
+                  "height" : 16
+                },
+                "os" : "10_12",
+                "width" : 0,
+                "html" : "<span data-offset-key=\"fkbv7-0-0\" style=\"tab-size:4;font-family:&quot;ZurichBT-Bold&quot;, &quot;Zurich BT&quot;, serif;-webkit-text-fill-color:hsl(0, 0%, 100%);font-size:14px;letter-spacing:2.2px;line-height:1.2;font-weight:700\"><span data-text=\"true\">FOLLOW<\/span><\/span>"
+              },
+              "entityMap" : {
+
+              },
+              "blocks" : [
+                {
+                  "depth" : 0,
+                  "inlineStyleRanges" : [
+                    {
+                      "style" : "LINEHEIGHT:1.2",
+                      "offset" : 0,
+                      "length" : 6
+                    },
+                    {
+                      "style" : "COLOR:hsl(0, 0%, 100%)",
+                      "offset" : 0,
+                      "length" : 6
+                    },
+                    {
+                      "style" : "FONT:ZurichBT-Bold",
+                      "offset" : 0,
+                      "length" : 6
+                    },
+                    {
+                      "style" : "LETTERSPACING:2.2",
+                      "offset" : 0,
+                      "length" : 6
+                    },
+                    {
+                      "style" : "SIZE:14",
+                      "offset" : 0,
+                      "length" : 6
+                    }
+                  ],
+                  "entityRanges" : [
+
+                  ],
+                  "data" : {
+                    "emptyStyle" : [
+                      "LINEHEIGHT:1.2",
+                      "COLOR:hsl(0, 0%, 100%)",
+                      "FONT:ZurichBT-Bold",
+                      "LETTERSPACING:2.2",
+                      "SIZE:14"
+                    ]
+                  },
+                  "text" : "FOLLOW",
+                  "key" : "fkbv7",
+                  "type" : "unstyled"
+                }
+              ],
+              "__class" : "StyledTextDraft"
+            },
+            "blendingMode" : "normal",
+            "invert" : 0,
+            "sepia" : 0,
+            "centerAnchorX" : 0.7653333333333333,
+            "blurEnabled" : 0,
+            "shadows" : [
+
+            ],
+            "parentid" : "dttA2_Gnm",
+            "brightnessEnabled" : 0,
+            "exportOptions" : [
+
+            ],
+            "name" : null,
+            "saturate" : 100,
+            "height" : 16,
+            "blendingEnabled" : 0,
+            "top" : null,
+            "constraintsLocked" : false,
+            "right" : 51,
+            "visible" : true,
+            "centerAnchorY" : 0.8977832512315271,
+            "contrast" : 100,
+            "grayScaleEnabled" : 0,
+            "hueRotate" : 0,
+            "heightFactor" : null,
+            "targetName" : null,
+            "bottom" : 75,
+            "blur" : 12,
+            "autoSize" : true,
+            "invertEnabled" : 0,
+            "width" : 74,
+            "brightness" : 100
+          }
+        ],
+        "centerAnchorX" : 0,
+        "id" : "dttA2_Gnm",
+        "exportOptions" : [
+
+        ],
+        "exportIncludesBackground" : true,
+        "grayScaleEnabled" : 0,
+        "constraintsLocked" : false,
+        "blurType" : "layer",
+        "fillColor" : "rgba(255,255,255,1)",
+        "widthFactor" : null,
+        "blendingEnabled" : 0,
+        "grayscale" : 0,
+        "top" : 0,
+        "saturate" : 100,
+        "left" : 548,
+        "locked" : false,
+        "sepiaEnabled" : 0,
+        "fillGradient" : {
+          "end" : "rgba(0,0,0,0)",
+          "alpha" : 1,
+          "angle" : 0,
+          "__class" : "LinearGradient",
+          "start" : "black"
+        },
+        "blur" : 12,
+        "radiusTopLeft" : 0,
+        "sepia" : 0,
+        "borderColor" : "#222",
+        "rotation" : 0,
+        "borderLeft" : 1,
+        "fillEnabled" : true,
+        "right" : null,
+        "opacity" : 1,
+        "name" : "second",
+        "blendingMode" : "normal",
+        "contrast" : 100,
+        "centerAnchorY" : 0,
+        "height" : 812,
+        "borderWidth" : 1,
+        "radiusIsRelative" : false,
+        "hueRotate" : 0,
+        "borderStyle" : "solid",
+        "brightnessEnabled" : 0,
+        "borderPerSide" : false,
+        "saturateEnabled" : 0,
+        "aspectRatioLocked" : false,
+        "borderRight" : 1,
+        "parentid" : "k0DWlBhnQ",
+        "radiusBottomLeft" : 0,
+        "boxShadows" : [
+
+        ],
+        "contrastEnabled" : 0,
+        "borderEnabled" : 0,
+        "radiusPerCorner" : false,
+        "radiusTopRight" : 0,
+        "invert" : 0,
+        "__class" : "FrameNode",
+        "clip" : true,
+        "visible" : true,
+        "fillType" : "color",
+        "invertEnabled" : 0,
+        "heightFactor" : null,
+        "width" : 375,
+        "borderBottom" : 1,
+        "blurEnabled" : 0,
+        "deviceType" : "apple-iphone-x-space-gray",
+        "bottom" : null,
+        "borderTop" : 1,
+        "targetName" : "second",
+        "radiusBottomRight" : 0,
+        "brightness" : 100
+      },
+      {
+        "radius" : 0,
+        "hueRotateEnabled" : 0,
+        "children" : [
+          {
+            "radius" : 0,
+            "hueRotateEnabled" : 0,
+            "children" : [
+              {
+                "radius" : 0,
+                "hueRotateEnabled" : 0,
+                "pixelWidth" : 375,
+                "children" : [
+
+                ],
+                "centerAnchorX" : 0.5,
+                "id" : "YkgSxEBE7",
+                "exportOptions" : [
+
+                ],
+                "grayScaleEnabled" : 0,
+                "constraintsLocked" : false,
+                "blurType" : "layer",
+                "fillColor" : "transparent",
+                "widthFactor" : null,
+                "blendingEnabled" : 0,
+                "grayscale" : 0,
+                "top" : 0,
+                "saturate" : 100,
+                "left" : 0,
+                "locked" : false,
+                "sepiaEnabled" : 0,
+                "blur" : 12,
+                "sepia" : 0,
+                "radiusTopLeft" : 0,
+                "borderColor" : "#222",
+                "rotation" : 0,
+                "image" : "YIbRxzq4qfaQBUGkGjREqJQ3vK4mIcurDP885rGi2CXo7BxvXanT1YlN5K9dkMN8aJZXFTEe6CpWM9DvCIg.png",
+                "borderLeft" : 1,
+                "fillEnabled" : false,
+                "right" : 0,
+                "opacity" : 1,
+                "name" : "a",
+                "blendingMode" : "normal",
+                "originalFilename" : "",
+                "contrast" : 100,
+                "centerAnchorY" : 0.5,
+                "height" : 812,
+                "borderWidth" : 1,
+                "hueRotate" : 0,
+                "borderStyle" : "solid",
+                "pixelHeight" : 812,
+                "brightnessEnabled" : 0,
+                "borderPerSide" : false,
+                "imageBackgroundSize" : "Cover",
+                "aspectRatioLocked" : true,
+                "borderRight" : 1,
+                "saturateEnabled" : 0,
+                "parentid" : "fe8sVQdyJ",
+                "intrinsicWidth" : 187.5,
+                "radiusBottomLeft" : 0,
+                "boxShadows" : [
+
+                ],
+                "contrastEnabled" : 0,
+                "borderEnabled" : 0,
+                "radiusPerCorner" : false,
+                "radiusTopRight" : 0,
+                "invert" : 0,
+                "__class" : "ImageNode",
+                "clip" : true,
+                "visible" : true,
+                "invertEnabled" : 0,
+                "heightFactor" : null,
+                "width" : 375,
+                "borderBottom" : 1,
+                "intrinsicHeight" : 406,
+                "blurEnabled" : 0,
+                "bottom" : null,
+                "borderTop" : 1,
+                "targetName" : "a",
+                "radiusBottomRight" : 0,
+                "brightness" : 100
+              }
+            ],
+            "centerAnchorX" : 0.5,
+            "id" : "fe8sVQdyJ",
+            "exportOptions" : [
+
+            ],
+            "exportIncludesBackground" : true,
+            "grayScaleEnabled" : 0,
+            "constraintsLocked" : false,
+            "blurType" : "layer",
+            "fillColor" : "rgba(0, 170, 255, 0.5)",
+            "widthFactor" : null,
+            "blendingEnabled" : 0,
+            "grayscale" : 0,
+            "top" : 0,
+            "saturate" : 100,
+            "left" : 0,
+            "locked" : false,
+            "sepiaEnabled" : 0,
+            "fillGradient" : {
+              "end" : "rgba(0,0,0,0)",
+              "alpha" : 1,
+              "angle" : 0,
+              "__class" : "LinearGradient",
+              "start" : "black"
+            },
+            "blur" : 12,
+            "radiusTopLeft" : 0,
+            "sepia" : 0,
+            "borderColor" : "#222",
+            "rotation" : 0,
+            "borderLeft" : 1,
+            "fillEnabled" : true,
+            "right" : 0,
+            "opacity" : 1,
+            "name" : "bgimage",
+            "blendingMode" : "normal",
+            "contrast" : 100,
+            "centerAnchorY" : 0.5,
+            "height" : 812,
+            "borderWidth" : 1,
+            "radiusIsRelative" : false,
+            "hueRotate" : 0,
+            "borderStyle" : "solid",
+            "brightnessEnabled" : 0,
+            "borderPerSide" : false,
+            "saturateEnabled" : 0,
+            "aspectRatioLocked" : false,
+            "borderRight" : 1,
+            "parentid" : "g99FGlm0Y",
+            "radiusBottomLeft" : 0,
+            "boxShadows" : [
+
+            ],
+            "contrastEnabled" : 0,
+            "borderEnabled" : 0,
+            "radiusPerCorner" : false,
+            "radiusTopRight" : 0,
+            "invert" : 0,
+            "__class" : "FrameNode",
+            "clip" : false,
+            "visible" : true,
+            "fillType" : "color",
+            "invertEnabled" : 0,
+            "heightFactor" : null,
+            "width" : 375,
+            "borderBottom" : 1,
+            "blurEnabled" : 0,
+            "deviceType" : null,
+            "bottom" : 0,
+            "borderTop" : 1,
+            "targetName" : "bgimage",
+            "radiusBottomRight" : 0,
+            "brightness" : 100
+          },
+          {
+            "radius" : 0,
+            "hueRotateEnabled" : 0,
+            "children" : [
+              {
+                "radius" : 0,
+                "hueRotateEnabled" : 0,
+                "pixelWidth" : 375,
+                "children" : [
+
+                ],
+                "centerAnchorX" : 0.5,
+                "id" : "yjxZ5VrhG",
+                "exportOptions" : [
+
+                ],
+                "grayScaleEnabled" : 0,
+                "constraintsLocked" : false,
+                "blurType" : "layer",
+                "fillColor" : "transparent",
+                "widthFactor" : null,
+                "blendingEnabled" : 0,
+                "grayscale" : 0,
+                "top" : null,
+                "saturate" : 100,
+                "left" : 0,
+                "locked" : false,
+                "sepiaEnabled" : 0,
+                "blur" : 12,
+                "sepia" : 0,
+                "radiusTopLeft" : 0,
+                "borderColor" : "#222",
+                "rotation" : 0,
+                "image" : "r397Yt8bc9CnbCHWg8x04q5TEzfWDOH1WzGvVy9FujyLjFRFq55J9WIH1SU99NuEIbzcoY3g9pFJnngfF6g.png",
+                "borderLeft" : 1,
+                "fillEnabled" : false,
+                "right" : 0,
+                "opacity" : 1,
+                "name" : "bg",
+                "blendingMode" : "normal",
+                "originalFilename" : "",
+                "contrast" : 100,
+                "centerAnchorY" : 0.6998626373626373,
+                "height" : 437,
+                "borderWidth" : 1,
+                "hueRotate" : 0,
+                "borderStyle" : "solid",
+                "pixelHeight" : 438,
+                "brightnessEnabled" : 0,
+                "borderPerSide" : false,
+                "imageBackgroundSize" : "Cover",
+                "aspectRatioLocked" : true,
+                "borderRight" : 1,
+                "saturateEnabled" : 0,
+                "parentid" : "hleX1JmUm",
+                "intrinsicWidth" : 187.5,
+                "radiusBottomLeft" : 0,
+                "boxShadows" : [
+
+                ],
+                "contrastEnabled" : 0,
+                "borderEnabled" : 0,
+                "radiusPerCorner" : false,
+                "radiusTopRight" : 0,
+                "invert" : 0,
+                "__class" : "ImageNode",
+                "clip" : true,
+                "visible" : true,
+                "invertEnabled" : 0,
+                "heightFactor" : null,
+                "width" : 375,
+                "borderBottom" : 1,
+                "intrinsicHeight" : 219,
+                "blurEnabled" : 0,
+                "bottom" : 0,
+                "borderTop" : 1,
+                "targetName" : "bg",
+                "radiusBottomRight" : 0,
+                "brightness" : 100
+              },
+              {
+                "radiusBottomLeft" : 0,
+                "rotation" : 0,
+                "__class" : "RectangleShapeNode",
+                "id" : "ftAfxtkD5",
+                "strokeWidth" : 1,
+                "fillColor" : "rgba(250, 250, 250, 0.85)",
+                "aspectRatioLocked" : false,
+                "opacity" : 1,
+                "locked" : false,
+                "fillGradient" : {
+                  "end" : "rgba(0,0,0,0)",
+                  "alpha" : 1,
+                  "angle" : 0,
+                  "__class" : "LinearGradient",
+                  "start" : "black"
+                },
+                "radius" : 9,
+                "strokeDashOffset" : 0,
+                "boxShadows" : [
+                  {
+                    "x" : 0,
+                    "color" : "hsla(0, 0%, 0%, 0.15)",
+                    "enabled" : true,
+                    "y" : 2,
+                    "spread" : 0,
+                    "__class" : "BoxShadow",
+                    "inset" : false,
+                    "blur" : 6
+                  }
+                ],
+                "fillType" : "color",
+                "strokeEnabled" : 0,
+                "lineJoin" : "miter",
+                "radiusBottomRight" : 8,
+                "fillEnabled" : true,
+                "parentid" : "hleX1JmUm",
+                "strokeDashArray" : "0",
+                "exportOptions" : [
+
+                ],
+                "name" : null,
+                "height" : 256,
+                "radiusTopRight" : 8,
+                "lineCap" : "butt",
+                "strokeColor" : "#0AF",
+                "strokeAlignment" : "center",
+                "strokeMiterLimit" : 4,
+                "visible" : true,
+                "radiusPerCorner" : true,
+                "radiusTopLeft" : 0,
+                "targetName" : null,
+                "x" : 0,
+                "width" : 105,
+                "y" : 0
+              },
+              {
+                "sepiaEnabled" : 0,
+                "editable" : false,
+                "rotation" : 0,
+                "blurType" : "layer",
+                "__class" : "TextNode",
+                "id" : "BsZTPzhrK",
+                "saturateEnabled" : 0,
+                "grayscale" : 0,
+                "hueRotateEnabled" : 0,
+                "widthFactor" : null,
+                "opacity" : 1,
+                "contrastEnabled" : 0,
+                "locked" : false,
+                "left" : 24,
+                "styledText" : {
+                  "cached" : {
+                    "size" : {
+                      "width" : 28,
+                      "height" : 12
+                    },
+                    "os" : "10_12",
+                    "width" : 0,
+                    "html" : "<span data-offset-key=\"6jpg1-0-0\" style=\"tab-size:4;font-family:&quot;ZurichBT-Roman&quot;, &quot;Zurich BT&quot;, serif;-webkit-text-fill-color:hsl(0, 0%, 70%);font-size:10px;letter-spacing:0px;line-height:1.2;font-weight:400\"><span data-text=\"true\">POST<\/span><\/span>"
+                  },
+                  "entityMap" : {
+
+                  },
+                  "blocks" : [
+                    {
+                      "depth" : 0,
+                      "inlineStyleRanges" : [
+                        {
+                          "style" : "LINEHEIGHT:1.2",
+                          "offset" : 0,
+                          "length" : 4
+                        },
+                        {
+                          "style" : "FONT:ZurichBT-Roman",
+                          "offset" : 0,
+                          "length" : 4
+                        },
+                        {
+                          "style" : "SIZE:10",
+                          "offset" : 0,
+                          "length" : 4
+                        },
+                        {
+                          "style" : "COLOR:hsl(0, 0%, 70%)",
+                          "offset" : 0,
+                          "length" : 4
+                        },
+                        {
+                          "style" : "LETTERSPACING:0",
+                          "offset" : 0,
+                          "length" : 4
+                        }
+                      ],
+                      "entityRanges" : [
+
+                      ],
+                      "data" : {
+                        "emptyStyle" : [
+                          "LINEHEIGHT:1.2",
+                          "FONT:ZurichBT-Roman",
+                          "SIZE:10",
+                          "COLOR:hsl(0, 0%, 70%)",
+                          "LETTERSPACING:0"
+                        ]
+                      },
+                      "text" : "POST",
+                      "key" : "6jpg1",
+                      "type" : "unstyled"
+                    }
+                  ],
+                  "__class" : "StyledTextDraft"
+                },
+                "blendingMode" : "normal",
+                "invert" : 0,
+                "sepia" : 0,
+                "centerAnchorX" : 0.1013333333333333,
+                "blurEnabled" : 0,
+                "shadows" : [
+
+                ],
+                "parentid" : "hleX1JmUm",
+                "brightnessEnabled" : 0,
+                "exportOptions" : [
+
+                ],
+                "name" : null,
+                "saturate" : 100,
+                "height" : 12,
+                "blendingEnabled" : 0,
+                "top" : 52,
+                "constraintsLocked" : false,
+                "right" : null,
+                "visible" : true,
+                "centerAnchorY" : 0.07967032967032966,
+                "contrast" : 100,
+                "grayScaleEnabled" : 0,
+                "hueRotate" : 0,
+                "heightFactor" : null,
+                "targetName" : null,
+                "bottom" : null,
+                "blur" : 12,
+                "autoSize" : true,
+                "invertEnabled" : 0,
+                "width" : 28,
+                "brightness" : 100
+              },
+              {
+                "sepiaEnabled" : 0,
+                "editable" : false,
+                "rotation" : 0,
+                "blurType" : "layer",
+                "__class" : "TextNode",
+                "id" : "ALDSEV6Gj",
+                "saturateEnabled" : 0,
+                "grayscale" : 0,
+                "hueRotateEnabled" : 0,
+                "widthFactor" : null,
+                "opacity" : 1,
+                "contrastEnabled" : 0,
+                "locked" : false,
+                "left" : 24,
+                "styledText" : {
+                  "cached" : {
+                    "size" : {
+                      "width" : 55,
+                      "height" : 12
+                    },
+                    "os" : "10_12",
+                    "width" : 0,
+                    "html" : "<span data-offset-key=\"6jpg1-0-0\" style=\"tab-size:4;font-family:&quot;ZurichBT-Roman&quot;, &quot;Zurich BT&quot;, serif;-webkit-text-fill-color:hsl(0, 0%, 70%);font-size:10px;letter-spacing:0px;line-height:1.2;font-weight:400\"><span data-text=\"true\">FOLLOWER<\/span><\/span>"
+                  },
+                  "entityMap" : {
+
+                  },
+                  "blocks" : [
+                    {
+                      "depth" : 0,
+                      "inlineStyleRanges" : [
+                        {
+                          "length" : 8,
+                          "style" : "LINEHEIGHT:1.2",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 8,
+                          "style" : "FONT:ZurichBT-Roman",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 8,
+                          "style" : "SIZE:10",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 8,
+                          "style" : "COLOR:hsl(0, 0%, 70%)",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 8,
+                          "style" : "LETTERSPACING:0",
+                          "offset" : 0
+                        }
+                      ],
+                      "entityRanges" : [
+
+                      ],
+                      "data" : {
+                        "emptyStyle" : [
+                          "LINEHEIGHT:1.2",
+                          "FONT:ZurichBT-Roman",
+                          "SIZE:10",
+                          "COLOR:hsl(0, 0%, 70%)",
+                          "LETTERSPACING:0"
+                        ]
+                      },
+                      "text" : "FOLLOWER",
+                      "key" : "6jpg1",
+                      "type" : "unstyled"
+                    }
+                  ],
+                  "__class" : "StyledTextDraft"
+                },
+                "blendingMode" : "normal",
+                "invert" : 0,
+                "sepia" : 0,
+                "centerAnchorX" : 0.1373333333333333,
+                "blurEnabled" : 0,
+                "shadows" : [
+
+                ],
+                "parentid" : "hleX1JmUm",
+                "brightnessEnabled" : 0,
+                "exportOptions" : [
+
+                ],
+                "name" : null,
+                "saturate" : 100,
+                "height" : 12,
+                "blendingEnabled" : 0,
+                "top" : 112,
+                "constraintsLocked" : false,
+                "right" : null,
+                "visible" : true,
+                "centerAnchorY" : 0.1620879120879121,
+                "contrast" : 100,
+                "grayScaleEnabled" : 0,
+                "hueRotate" : 0,
+                "heightFactor" : null,
+                "targetName" : "Text_5",
+                "bottom" : null,
+                "blur" : 12,
+                "autoSize" : true,
+                "invertEnabled" : 0,
+                "width" : 55,
+                "brightness" : 100
+              },
+              {
+                "radius" : 0,
+                "hueRotateEnabled" : 0,
+                "children" : [
+                  {
+                    "sepiaEnabled" : 0,
+                    "editable" : false,
+                    "rotation" : 0,
+                    "blurType" : "layer",
+                    "__class" : "TextNode",
+                    "id" : "PdcOFkSwb",
+                    "saturateEnabled" : 0,
+                    "grayscale" : 0,
+                    "hueRotateEnabled" : 0,
+                    "widthFactor" : null,
+                    "opacity" : 1,
+                    "contrastEnabled" : 0,
+                    "locked" : false,
+                    "left" : 0,
+                    "styledText" : {
+                      "cached" : {
+                        "size" : {
+                          "width" : 38,
+                          "height" : 24
+                        },
+                        "os" : "10_12",
+                        "width" : 0,
+                        "html" : "<span data-offset-key=\"ap0ld-0-0\" style=\"tab-size:4;font-family:&quot;ZurichBT-Bold&quot;, &quot;Zurich BT&quot;, serif;-webkit-text-fill-color:hsl(0, 0%, 43%);font-size:20px;letter-spacing:1px;line-height:1.2;font-weight:700\"><span data-text=\"true\">238<\/span><\/span>"
+                      },
+                      "entityMap" : {
+
+                      },
+                      "blocks" : [
+                        {
+                          "depth" : 0,
+                          "inlineStyleRanges" : [
+                            {
+                              "length" : 3,
+                              "style" : "LINEHEIGHT:1.2",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 3,
+                              "style" : "LETTERSPACING:1",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 3,
+                              "style" : "COLOR:hsl(0, 0%, 43%)",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 3,
+                              "style" : "FONT:ZurichBT-Bold",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 3,
+                              "style" : "SIZE:20",
+                              "offset" : 0
+                            }
+                          ],
+                          "entityRanges" : [
+
+                          ],
+                          "data" : {
+                            "emptyStyle" : [
+                              "LINEHEIGHT:1.2",
+                              "LETTERSPACING:1",
+                              "COLOR:hsl(0, 0%, 43%)",
+                              "FONT:ZurichBT-Bold",
+                              "SIZE:20"
+                            ]
+                          },
+                          "text" : "238",
+                          "key" : "ap0ld",
+                          "type" : "unstyled"
+                        }
+                      ],
+                      "__class" : "StyledTextDraft"
+                    },
+                    "blendingMode" : "normal",
+                    "invert" : 0,
+                    "sepia" : 0,
+                    "centerAnchorX" : 0.3392857142857143,
+                    "blurEnabled" : 0,
+                    "shadows" : [
+
+                    ],
+                    "parentid" : "hZYzEoHSX",
+                    "brightnessEnabled" : 0,
+                    "exportOptions" : [
+
+                    ],
+                    "name" : null,
+                    "saturate" : 100,
+                    "height" : 24,
+                    "blendingEnabled" : 0,
+                    "top" : 0,
+                    "constraintsLocked" : false,
+                    "right" : null,
+                    "visible" : true,
+                    "centerAnchorY" : 0.08333333333333333,
+                    "contrast" : 100,
+                    "grayScaleEnabled" : 0,
+                    "hueRotate" : 0,
+                    "heightFactor" : null,
+                    "targetName" : null,
+                    "bottom" : null,
+                    "blur" : 12,
+                    "autoSize" : true,
+                    "invertEnabled" : 0,
+                    "width" : 38,
+                    "brightness" : 100
+                  },
+                  {
+                    "sepiaEnabled" : 0,
+                    "editable" : false,
+                    "rotation" : 0,
+                    "blurType" : "layer",
+                    "__class" : "TextNode",
+                    "id" : "OII5cWTCM",
+                    "saturateEnabled" : 0,
+                    "grayscale" : 0,
+                    "hueRotateEnabled" : 0,
+                    "widthFactor" : null,
+                    "opacity" : 1,
+                    "contrastEnabled" : 0,
+                    "locked" : false,
+                    "left" : null,
+                    "styledText" : {
+                      "cached" : {
+                        "size" : {
+                          "width" : 56,
+                          "height" : 24
+                        },
+                        "os" : "10_12",
+                        "width" : 0,
+                        "html" : "<span data-offset-key=\"ap0ld-0-0\" style=\"tab-size:4;font-family:&quot;ZurichBT-Bold&quot;, &quot;Zurich BT&quot;, serif;-webkit-text-fill-color:hsl(0, 0%, 43%);font-size:20px;letter-spacing:1px;line-height:1.2;font-weight:700\"><span data-text=\"true\">13.7k<\/span><\/span>"
+                      },
+                      "entityMap" : {
+
+                      },
+                      "blocks" : [
+                        {
+                          "depth" : 0,
+                          "inlineStyleRanges" : [
+                            {
+                              "length" : 5,
+                              "style" : "LINEHEIGHT:1.2",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 5,
+                              "style" : "LETTERSPACING:1",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 5,
+                              "style" : "COLOR:hsl(0, 0%, 43%)",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 5,
+                              "style" : "FONT:ZurichBT-Bold",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 5,
+                              "style" : "SIZE:20",
+                              "offset" : 0
+                            }
+                          ],
+                          "entityRanges" : [
+
+                          ],
+                          "data" : {
+                            "emptyStyle" : [
+                              "LINEHEIGHT:1.2",
+                              "LETTERSPACING:1",
+                              "COLOR:hsl(0, 0%, 43%)",
+                              "FONT:ZurichBT-Bold",
+                              "SIZE:20"
+                            ]
+                          },
+                          "text" : "13.7k",
+                          "key" : "ap0ld",
+                          "type" : "unstyled"
+                        }
+                      ],
+                      "__class" : "StyledTextDraft"
+                    },
+                    "blendingMode" : "normal",
+                    "invert" : 0,
+                    "sepia" : 0,
+                    "centerAnchorX" : 0.5,
+                    "blurEnabled" : 0,
+                    "shadows" : [
+
+                    ],
+                    "parentid" : "hZYzEoHSX",
+                    "brightnessEnabled" : 0,
+                    "exportOptions" : [
+
+                    ],
+                    "name" : null,
+                    "saturate" : 100,
+                    "height" : 24,
+                    "blendingEnabled" : 0,
+                    "top" : null,
+                    "constraintsLocked" : false,
+                    "right" : null,
+                    "visible" : true,
+                    "centerAnchorY" : 0.5,
+                    "contrast" : 100,
+                    "grayScaleEnabled" : 0,
+                    "hueRotate" : 0,
+                    "heightFactor" : null,
+                    "targetName" : null,
+                    "bottom" : null,
+                    "blur" : 12,
+                    "autoSize" : true,
+                    "invertEnabled" : 0,
+                    "width" : 56,
+                    "brightness" : 100
+                  },
+                  {
+                    "sepiaEnabled" : 0,
+                    "editable" : false,
+                    "rotation" : 0,
+                    "blurType" : "layer",
+                    "__class" : "TextNode",
+                    "id" : "LN5zcAIrE",
+                    "saturateEnabled" : 0,
+                    "grayscale" : 0,
+                    "hueRotateEnabled" : 0,
+                    "widthFactor" : null,
+                    "opacity" : 1,
+                    "contrastEnabled" : 0,
+                    "locked" : false,
+                    "left" : 0,
+                    "styledText" : {
+                      "cached" : {
+                        "size" : {
+                          "width" : 38,
+                          "height" : 24
+                        },
+                        "os" : "10_12",
+                        "width" : 0,
+                        "html" : "<span data-offset-key=\"ap0ld-0-0\" style=\"tab-size:4;font-family:&quot;ZurichBT-Bold&quot;, &quot;Zurich BT&quot;, serif;-webkit-text-fill-color:hsl(0, 0%, 43%);font-size:20px;letter-spacing:1px;line-height:1.2;font-weight:700\"><span data-text=\"true\">640<\/span><\/span>"
+                      },
+                      "entityMap" : {
+
+                      },
+                      "blocks" : [
+                        {
+                          "depth" : 0,
+                          "inlineStyleRanges" : [
+                            {
+                              "length" : 3,
+                              "style" : "LINEHEIGHT:1.2",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 3,
+                              "style" : "LETTERSPACING:1",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 3,
+                              "style" : "COLOR:hsl(0, 0%, 43%)",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 3,
+                              "style" : "FONT:ZurichBT-Bold",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 3,
+                              "style" : "SIZE:20",
+                              "offset" : 0
+                            }
+                          ],
+                          "entityRanges" : [
+
+                          ],
+                          "data" : {
+                            "emptyStyle" : [
+                              "LINEHEIGHT:1.2",
+                              "LETTERSPACING:1",
+                              "COLOR:hsl(0, 0%, 43%)",
+                              "FONT:ZurichBT-Bold",
+                              "SIZE:20"
+                            ]
+                          },
+                          "text" : "640",
+                          "key" : "ap0ld",
+                          "type" : "unstyled"
+                        }
+                      ],
+                      "__class" : "StyledTextDraft"
+                    },
+                    "blendingMode" : "normal",
+                    "invert" : 0,
+                    "sepia" : 0,
+                    "centerAnchorX" : 0.3392857142857143,
+                    "blurEnabled" : 0,
+                    "shadows" : [
+
+                    ],
+                    "parentid" : "hZYzEoHSX",
+                    "brightnessEnabled" : 0,
+                    "exportOptions" : [
+
+                    ],
+                    "name" : null,
+                    "saturate" : 100,
+                    "height" : 24,
+                    "blendingEnabled" : 0,
+                    "top" : null,
+                    "constraintsLocked" : false,
+                    "right" : null,
+                    "visible" : true,
+                    "centerAnchorY" : 0.9166666666666666,
+                    "contrast" : 100,
+                    "grayScaleEnabled" : 0,
+                    "hueRotate" : 0,
+                    "heightFactor" : null,
+                    "targetName" : "Text_4",
+                    "bottom" : 0,
+                    "blur" : 12,
+                    "autoSize" : true,
+                    "invertEnabled" : 0,
+                    "width" : 38,
+                    "brightness" : 100
+                  }
+                ],
+                "centerAnchorX" : 0.1386666666666667,
+                "id" : "hZYzEoHSX",
+                "exportOptions" : [
+
+                ],
+                "exportIncludesBackground" : true,
+                "grayScaleEnabled" : 0,
+                "constraintsLocked" : false,
+                "blurType" : "layer",
+                "fillColor" : "rgba(255,255,255,1)",
+                "widthFactor" : null,
+                "blendingEnabled" : 0,
+                "grayscale" : 0,
+                "top" : 24,
+                "saturate" : 100,
+                "left" : 24,
+                "locked" : false,
+                "sepiaEnabled" : 0,
+                "fillGradient" : {
+                  "end" : "rgba(0,0,0,0)",
+                  "alpha" : 1,
+                  "angle" : 0,
+                  "__class" : "LinearGradient",
+                  "start" : "black"
+                },
+                "blur" : 12,
+                "radiusTopLeft" : 0,
+                "sepia" : 0,
+                "borderColor" : "#222",
+                "rotation" : 0,
+                "borderLeft" : 1,
+                "fillEnabled" : false,
+                "right" : null,
+                "opacity" : 1,
+                "name" : "data1",
+                "blendingMode" : "normal",
+                "contrast" : 100,
+                "centerAnchorY" : 0.1318681318681319,
+                "height" : 144,
+                "borderWidth" : 1,
+                "radiusIsRelative" : false,
+                "hueRotate" : 0,
+                "borderStyle" : "solid",
+                "brightnessEnabled" : 0,
+                "borderPerSide" : false,
+                "saturateEnabled" : 0,
+                "aspectRatioLocked" : false,
+                "borderRight" : 1,
+                "parentid" : "hleX1JmUm",
+                "radiusBottomLeft" : 0,
+                "boxShadows" : [
+
+                ],
+                "contrastEnabled" : 0,
+                "borderEnabled" : 0,
+                "radiusPerCorner" : false,
+                "radiusTopRight" : 0,
+                "invert" : 0,
+                "__class" : "FrameNode",
+                "clip" : false,
+                "visible" : true,
+                "fillType" : "color",
+                "invertEnabled" : 0,
+                "heightFactor" : null,
+                "width" : 56,
+                "borderBottom" : 1,
+                "blurEnabled" : 0,
+                "deviceType" : null,
+                "bottom" : null,
+                "borderTop" : 1,
+                "targetName" : "data1",
+                "radiusBottomRight" : 0,
+                "brightness" : 100
+              },
+              {
+                "sepiaEnabled" : 0,
+                "editable" : false,
+                "rotation" : 0,
+                "blurType" : "layer",
+                "__class" : "TextNode",
+                "id" : "V_gcuXilR",
+                "saturateEnabled" : 0,
+                "grayscale" : 0,
+                "hueRotateEnabled" : 0,
+                "widthFactor" : null,
+                "opacity" : 1,
+                "contrastEnabled" : 0,
+                "locked" : false,
+                "left" : 24,
+                "styledText" : {
+                  "cached" : {
+                    "size" : {
+                      "width" : 43,
+                      "height" : 12
+                    },
+                    "os" : "10_12",
+                    "width" : 0,
+                    "html" : "<span data-offset-key=\"6jpg1-0-0\" style=\"tab-size:4;font-family:&quot;ZurichBT-Roman&quot;, &quot;Zurich BT&quot;, serif;-webkit-text-fill-color:hsl(0, 0%, 70%);font-size:10px;letter-spacing:0px;line-height:1.2;font-weight:400\"><span data-text=\"true\">FOLLOW<\/span><\/span>"
+                  },
+                  "entityMap" : {
+
+                  },
+                  "blocks" : [
+                    {
+                      "depth" : 0,
+                      "inlineStyleRanges" : [
+                        {
+                          "length" : 6,
+                          "style" : "LINEHEIGHT:1.2",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 6,
+                          "style" : "FONT:ZurichBT-Roman",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 6,
+                          "style" : "SIZE:10",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 6,
+                          "style" : "COLOR:hsl(0, 0%, 70%)",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 6,
+                          "style" : "LETTERSPACING:0",
+                          "offset" : 0
+                        }
+                      ],
+                      "entityRanges" : [
+
+                      ],
+                      "data" : {
+                        "emptyStyle" : [
+                          "LINEHEIGHT:1.2",
+                          "FONT:ZurichBT-Roman",
+                          "SIZE:10",
+                          "COLOR:hsl(0, 0%, 70%)",
+                          "LETTERSPACING:0"
+                        ]
+                      },
+                      "text" : "FOLLOW",
+                      "key" : "6jpg1",
+                      "type" : "unstyled"
+                    }
+                  ],
+                  "__class" : "StyledTextDraft"
+                },
+                "blendingMode" : "normal",
+                "invert" : 0,
+                "sepia" : 0,
+                "centerAnchorX" : 0.1213333333333333,
+                "blurEnabled" : 0,
+                "shadows" : [
+
+                ],
+                "parentid" : "hleX1JmUm",
+                "brightnessEnabled" : 0,
+                "exportOptions" : [
+
+                ],
+                "name" : null,
+                "saturate" : 100,
+                "height" : 12,
+                "blendingEnabled" : 0,
+                "top" : 172,
+                "constraintsLocked" : false,
+                "right" : null,
+                "visible" : true,
+                "centerAnchorY" : 0.2445054945054945,
+                "contrast" : 100,
+                "grayScaleEnabled" : 0,
+                "hueRotate" : 0,
+                "heightFactor" : null,
+                "targetName" : "Text_3",
+                "bottom" : null,
+                "blur" : 12,
+                "autoSize" : true,
+                "invertEnabled" : 0,
+                "width" : 43,
+                "brightness" : 100
+              },
+              {
+                "sepiaEnabled" : 0,
+                "editable" : false,
+                "rotation" : 0,
+                "blurType" : "layer",
+                "__class" : "TextNode",
+                "id" : "NBp9EQAig",
+                "saturateEnabled" : 0,
+                "grayscale" : 0,
+                "hueRotateEnabled" : 0,
+                "widthFactor" : null,
+                "opacity" : 1,
+                "contrastEnabled" : 0,
+                "locked" : false,
+                "left" : 24,
+                "styledText" : {
+                  "cached" : {
+                    "size" : {
+                      "width" : 169,
+                      "height" : 24
+                    },
+                    "os" : "10_12",
+                    "width" : 0,
+                    "html" : "<span data-offset-key=\"3l32r-0-0\" style=\"tab-size:4;font-family:&quot;MaterialIcons-Regular&quot;, &quot;Material Icons&quot;, serif;-webkit-text-fill-color:hsl(0, 0%, 43%);font-size:20px;letter-spacing:1px;line-height:1.2;font-weight:400\"><span data-text=\"true\">settings<\/span><\/span>"
+                  },
+                  "entityMap" : {
+
+                  },
+                  "blocks" : [
+                    {
+                      "depth" : 0,
+                      "inlineStyleRanges" : [
+                        {
+                          "length" : 8,
+                          "style" : "COLOR:hsl(0, 0%, 43%)",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 8,
+                          "style" : "LETTERSPACING:1",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 8,
+                          "style" : "LINEHEIGHT:1.2",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 8,
+                          "style" : "FONT:MaterialIcons-Regular",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 8,
+                          "style" : "ALIGN:left",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 8,
+                          "style" : "SIZE:20",
+                          "offset" : 0
+                        }
+                      ],
+                      "entityRanges" : [
+
+                      ],
+                      "data" : {
+                        "emptyStyle" : [
+                          "COLOR:hsl(0, 0%, 43%)",
+                          "LETTERSPACING:1",
+                          "LINEHEIGHT:1.2",
+                          "FONT:MaterialIcons-Regular",
+                          "ALIGN:left",
+                          "SIZE:20"
+                        ]
+                      },
+                      "text" : "settings",
+                      "key" : "3l32r",
+                      "type" : "unstyled"
+                    }
+                  ],
+                  "__class" : "StyledTextDraft"
+                },
+                "blendingMode" : "normal",
+                "invert" : 0,
+                "sepia" : 0,
+                "centerAnchorX" : 0.2893333333333333,
+                "blurEnabled" : 0,
+                "shadows" : [
+
+                ],
+                "parentid" : "hleX1JmUm",
+                "brightnessEnabled" : 0,
+                "exportOptions" : [
+
+                ],
+                "name" : null,
+                "saturate" : 100,
+                "height" : 24,
+                "blendingEnabled" : 0,
+                "top" : 204,
+                "constraintsLocked" : false,
+                "right" : null,
+                "visible" : true,
+                "centerAnchorY" : 0.2967032967032967,
+                "contrast" : 100,
+                "grayScaleEnabled" : 0,
+                "hueRotate" : 0,
+                "heightFactor" : null,
+                "targetName" : "Text_2",
+                "bottom" : null,
+                "blur" : 12,
+                "autoSize" : true,
+                "invertEnabled" : 0,
+                "width" : 169,
+                "brightness" : 100
+              },
+              {
+                "sepiaEnabled" : 0,
+                "editable" : false,
+                "rotation" : 0,
+                "blurType" : "layer",
+                "__class" : "TextNode",
+                "id" : "nM_ivjOle",
+                "saturateEnabled" : 0,
+                "grayscale" : 0,
+                "hueRotateEnabled" : 0,
+                "widthFactor" : null,
+                "opacity" : 1,
+                "contrastEnabled" : 0,
+                "locked" : false,
+                "left" : 32,
+                "styledText" : {
+                  "cached" : {
+                    "size" : {
+                      "width" : 127,
+                      "height" : 21
+                    },
+                    "os" : "10_12",
+                    "width" : 0,
+                    "html" : "<span data-offset-key=\"7eqav-0-0\" style=\"tab-size:4;font-family:&quot;ZurichBT-Bold&quot;, &quot;Zurich BT&quot;, serif;-webkit-text-fill-color:hsl(0, 0%, 100%);font-size:18px;letter-spacing:1px;line-height:1.2;font-weight:700\"><span data-text=\"true\">Ada Martines<\/span><\/span>"
+                  },
+                  "entityMap" : {
+
+                  },
+                  "blocks" : [
+                    {
+                      "depth" : 0,
+                      "inlineStyleRanges" : [
+                        {
+                          "length" : 12,
+                          "style" : "LETTERSPACING:1",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 12,
+                          "style" : "LINEHEIGHT:1.2",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 12,
+                          "style" : "COLOR:hsl(0, 0%, 100%)",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 12,
+                          "style" : "FONT:ZurichBT-Bold",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 12,
+                          "style" : "SIZE:18",
+                          "offset" : 0
+                        }
+                      ],
+                      "entityRanges" : [
+
+                      ],
+                      "data" : {
+                        "emptyStyle" : [
+                          "LETTERSPACING:1",
+                          "LINEHEIGHT:1.2",
+                          "COLOR:hsl(0, 0%, 100%)",
+                          "FONT:ZurichBT-Bold",
+                          "SIZE:18"
+                        ]
+                      },
+                      "text" : "Ada Martines",
+                      "key" : "7eqav",
+                      "type" : "unstyled"
+                    }
+                  ],
+                  "__class" : "StyledTextDraft"
+                },
+                "blendingMode" : "normal",
+                "invert" : 0,
+                "sepia" : 0,
+                "centerAnchorX" : 0.2546666666666667,
+                "blurEnabled" : 0,
+                "shadows" : [
+
+                ],
+                "parentid" : "hleX1JmUm",
+                "brightnessEnabled" : 0,
+                "exportOptions" : [
+
+                ],
+                "name" : "name1",
+                "saturate" : 100,
+                "height" : 21,
+                "blendingEnabled" : 0,
+                "top" : null,
+                "constraintsLocked" : false,
+                "right" : null,
+                "visible" : true,
+                "centerAnchorY" : 0.8729395604395604,
+                "contrast" : 100,
+                "grayScaleEnabled" : 0,
+                "hueRotate" : 0,
+                "heightFactor" : null,
+                "targetName" : "name1",
+                "bottom" : 82,
+                "blur" : 12,
+                "autoSize" : true,
+                "invertEnabled" : 0,
+                "width" : 127,
+                "brightness" : 100
+              },
+              {
+                "sepiaEnabled" : 0,
+                "editable" : false,
+                "rotation" : 0,
+                "blurType" : "layer",
+                "__class" : "TextNode",
+                "id" : "VjDjHswaB",
+                "saturateEnabled" : 0,
+                "grayscale" : 0,
+                "hueRotateEnabled" : 0,
+                "widthFactor" : null,
+                "opacity" : 1,
+                "contrastEnabled" : 0,
+                "locked" : false,
+                "left" : 32,
+                "styledText" : {
+                  "cached" : {
+                    "size" : {
+                      "width" : 100,
+                      "height" : 16
+                    },
+                    "os" : "10_12",
+                    "width" : 0,
+                    "html" : "<span data-offset-key=\"7eqav-0-0\" style=\"tab-size:4;font-family:&quot;ZurichBT-Roman&quot;, &quot;Zurich BT&quot;, serif;-webkit-text-fill-color:hsl(0, 0%, 70%);font-size:14px;letter-spacing:1px;line-height:1.2;font-weight:400\"><span data-text=\"true\">Tokyo, Japan<\/span><\/span>"
+                  },
+                  "entityMap" : {
+
+                  },
+                  "blocks" : [
+                    {
+                      "depth" : 0,
+                      "inlineStyleRanges" : [
+                        {
+                          "style" : "LETTERSPACING:1",
+                          "offset" : 0,
+                          "length" : 12
+                        },
+                        {
+                          "style" : "LINEHEIGHT:1.2",
+                          "offset" : 0,
+                          "length" : 12
+                        },
+                        {
+                          "style" : "FONT:ZurichBT-Roman",
+                          "offset" : 0,
+                          "length" : 12
+                        },
+                        {
+                          "style" : "SIZE:14",
+                          "offset" : 0,
+                          "length" : 12
+                        },
+                        {
+                          "style" : "COLOR:hsl(0, 0%, 70%)",
+                          "offset" : 0,
+                          "length" : 12
+                        }
+                      ],
+                      "entityRanges" : [
+
+                      ],
+                      "data" : {
+                        "emptyStyle" : [
+                          "LETTERSPACING:1",
+                          "LINEHEIGHT:1.2",
+                          "FONT:ZurichBT-Roman",
+                          "SIZE:14",
+                          "COLOR:hsl(0, 0%, 70%)"
+                        ]
+                      },
+                      "text" : "Tokyo, Japan",
+                      "key" : "7eqav",
+                      "type" : "unstyled"
+                    }
+                  ],
+                  "__class" : "StyledTextDraft"
+                },
+                "blendingMode" : "normal",
+                "invert" : 0,
+                "sepia" : 0,
+                "centerAnchorX" : 0.2186666666666667,
+                "blurEnabled" : 0,
+                "shadows" : [
+
+                ],
+                "parentid" : "hleX1JmUm",
+                "brightnessEnabled" : 0,
+                "exportOptions" : [
+
+                ],
+                "name" : null,
+                "saturate" : 100,
+                "height" : 16,
+                "blendingEnabled" : 0,
+                "top" : null,
+                "constraintsLocked" : false,
+                "right" : null,
+                "visible" : true,
+                "centerAnchorY" : 0.9038461538461539,
+                "contrast" : 100,
+                "grayScaleEnabled" : 0,
+                "hueRotate" : 0,
+                "heightFactor" : null,
+                "targetName" : null,
+                "bottom" : 62,
+                "blur" : 12,
+                "autoSize" : true,
+                "invertEnabled" : 0,
+                "width" : 100,
+                "brightness" : 100
+              },
+              {
+                "radiusBottomLeft" : 20,
+                "rotation" : 0,
+                "__class" : "RectangleShapeNode",
+                "id" : "ZQOdDdrHs",
+                "strokeWidth" : 1,
+                "fillColor" : "#E87161",
+                "aspectRatioLocked" : false,
+                "opacity" : 1,
+                "locked" : false,
+                "fillGradient" : {
+                  "end" : "rgba(0,0,0,0)",
+                  "alpha" : 1,
+                  "angle" : 0,
+                  "__class" : "LinearGradient",
+                  "start" : "black"
+                },
+                "radius" : 20,
+                "strokeDashOffset" : 0,
+                "boxShadows" : [
+
+                ],
+                "fillType" : "color",
+                "strokeEnabled" : 0,
+                "lineJoin" : "miter",
+                "radiusBottomRight" : 20,
+                "fillEnabled" : true,
+                "parentid" : "hleX1JmUm",
+                "strokeDashArray" : "0",
+                "exportOptions" : [
+
+                ],
+                "name" : null,
+                "height" : 40,
+                "radiusTopRight" : 20,
+                "lineCap" : "butt",
+                "strokeColor" : "#0AF",
+                "strokeAlignment" : "center",
+                "strokeMiterLimit" : 4,
+                "visible" : true,
+                "radiusPerCorner" : false,
+                "radiusTopLeft" : 20,
+                "targetName" : null,
+                "x" : 227,
+                "width" : 120,
+                "y" : 625
+              },
+              {
+                "sepiaEnabled" : 0,
+                "editable" : false,
+                "rotation" : 0,
+                "blurType" : "layer",
+                "__class" : "TextNode",
+                "id" : "lsnlqCePp",
+                "saturateEnabled" : 0,
+                "grayscale" : 0,
+                "hueRotateEnabled" : 0,
+                "widthFactor" : null,
+                "opacity" : 1,
+                "contrastEnabled" : 0,
+                "locked" : false,
+                "left" : null,
+                "styledText" : {
+                  "cached" : {
+                    "size" : {
+                      "width" : 74,
+                      "height" : 16
+                    },
+                    "os" : "10_12",
+                    "width" : 0,
+                    "html" : "<span data-offset-key=\"fkbv7-0-0\" style=\"tab-size:4;font-family:&quot;ZurichBT-Bold&quot;, &quot;Zurich BT&quot;, serif;-webkit-text-fill-color:hsl(0, 0%, 100%);font-size:14px;letter-spacing:2.2px;line-height:1.2;font-weight:700\"><span data-text=\"true\">FOLLOW<\/span><\/span>"
+                  },
+                  "entityMap" : {
+
+                  },
+                  "blocks" : [
+                    {
+                      "depth" : 0,
+                      "inlineStyleRanges" : [
+                        {
+                          "length" : 6,
+                          "style" : "LINEHEIGHT:1.2",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 6,
+                          "style" : "COLOR:hsl(0, 0%, 100%)",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 6,
+                          "style" : "FONT:ZurichBT-Bold",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 6,
+                          "style" : "LETTERSPACING:2.2",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 6,
+                          "style" : "SIZE:14",
+                          "offset" : 0
+                        }
+                      ],
+                      "entityRanges" : [
+
+                      ],
+                      "data" : {
+                        "emptyStyle" : [
+                          "LINEHEIGHT:1.2",
+                          "COLOR:hsl(0, 0%, 100%)",
+                          "FONT:ZurichBT-Bold",
+                          "LETTERSPACING:2.2",
+                          "SIZE:14"
+                        ]
+                      },
+                      "text" : "FOLLOW",
+                      "key" : "fkbv7",
+                      "type" : "unstyled"
+                    }
+                  ],
+                  "__class" : "StyledTextDraft"
+                },
+                "blendingMode" : "normal",
+                "invert" : 0,
+                "sepia" : 0,
+                "centerAnchorX" : 0.7653333333333333,
+                "blurEnabled" : 0,
+                "shadows" : [
+
+                ],
+                "parentid" : "hleX1JmUm",
+                "brightnessEnabled" : 0,
+                "exportOptions" : [
+
+                ],
+                "name" : null,
+                "saturate" : 100,
+                "height" : 16,
+                "blendingEnabled" : 0,
+                "top" : null,
+                "constraintsLocked" : false,
+                "right" : 51,
+                "visible" : true,
+                "centerAnchorY" : 0.8859890109890109,
+                "contrast" : 100,
+                "grayScaleEnabled" : 0,
+                "hueRotate" : 0,
+                "heightFactor" : null,
+                "targetName" : null,
+                "bottom" : 75,
+                "blur" : 12,
+                "autoSize" : true,
+                "invertEnabled" : 0,
+                "width" : 74,
+                "brightness" : 100
+              }
+            ],
+            "centerAnchorX" : 0.5,
+            "id" : "hleX1JmUm",
+            "exportOptions" : [
+
+            ],
+            "exportIncludesBackground" : true,
+            "grayScaleEnabled" : 0,
+            "constraintsLocked" : false,
+            "blurType" : "layer",
+            "fillColor" : "rgba(255,255,255,1)",
+            "widthFactor" : null,
+            "blendingEnabled" : 0,
+            "grayscale" : 0,
+            "top" : 84,
+            "saturate" : 100,
+            "left" : 0,
+            "locked" : false,
+            "sepiaEnabled" : 0,
+            "fillGradient" : {
+              "end" : "rgba(0,0,0,0)",
+              "alpha" : 1,
+              "angle" : 0,
+              "__class" : "LinearGradient",
+              "start" : "black"
+            },
+            "blur" : 12,
+            "radiusTopLeft" : 0,
+            "sepia" : 0,
+            "borderColor" : "#222",
+            "rotation" : 0,
+            "borderLeft" : 1,
+            "fillEnabled" : false,
+            "right" : 0,
+            "opacity" : 1,
+            "name" : "navi",
+            "blendingMode" : "normal",
+            "contrast" : 100,
+            "centerAnchorY" : 0.5517241379310345,
+            "height" : 728,
+            "borderWidth" : 1,
+            "radiusIsRelative" : false,
+            "hueRotate" : 0,
+            "borderStyle" : "solid",
+            "brightnessEnabled" : 0,
+            "borderPerSide" : false,
+            "saturateEnabled" : 0,
+            "aspectRatioLocked" : false,
+            "borderRight" : 1,
+            "parentid" : "g99FGlm0Y",
+            "radiusBottomLeft" : 0,
+            "boxShadows" : [
+
+            ],
+            "contrastEnabled" : 0,
+            "borderEnabled" : 0,
+            "radiusPerCorner" : false,
+            "radiusTopRight" : 0,
+            "invert" : 0,
+            "__class" : "FrameNode",
+            "clip" : false,
+            "visible" : true,
+            "fillType" : "color",
+            "invertEnabled" : 0,
+            "heightFactor" : null,
+            "width" : 375,
+            "borderBottom" : 1,
+            "blurEnabled" : 0,
+            "deviceType" : null,
+            "bottom" : 0,
+            "borderTop" : 1,
+            "targetName" : "navi",
+            "radiusBottomRight" : 0,
+            "brightness" : 100
+          },
+          {
+            "radius" : 0,
+            "hueRotateEnabled" : 0,
+            "children" : [
+              {
+                "sepiaEnabled" : 0,
+                "editable" : false,
+                "rotation" : 0,
+                "blurType" : "layer",
+                "__class" : "TextNode",
+                "id" : "sWxpEHmzZ",
+                "saturateEnabled" : 0,
+                "grayscale" : 0,
+                "hueRotateEnabled" : 0,
+                "widthFactor" : null,
+                "opacity" : 1,
+                "contrastEnabled" : 0,
+                "locked" : false,
+                "left" : null,
+                "styledText" : {
+                  "cached" : {
+                    "size" : {
+                      "width" : 137,
+                      "height" : 21
+                    },
+                    "os" : "10_12",
+                    "width" : 0,
+                    "html" : "<span data-offset-key=\"7eqav-0-0\" style=\"tab-size:4;font-family:&quot;ZurichBT-Bold&quot;, &quot;Zurich BT&quot;, serif;-webkit-text-fill-color:hsl(0, 0%, 100%);font-size:18px;letter-spacing:1px;line-height:1.2;font-weight:700\"><span data-text=\"true\">James Morton<\/span><\/span>"
+                  },
+                  "entityMap" : {
+
+                  },
+                  "blocks" : [
+                    {
+                      "depth" : 0,
+                      "inlineStyleRanges" : [
+                        {
+                          "length" : 12,
+                          "style" : "LETTERSPACING:1",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 12,
+                          "style" : "LINEHEIGHT:1.2",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 12,
+                          "style" : "COLOR:hsl(0, 0%, 100%)",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 12,
+                          "style" : "FONT:ZurichBT-Bold",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 12,
+                          "style" : "SIZE:18",
+                          "offset" : 0
+                        }
+                      ],
+                      "entityRanges" : [
+
+                      ],
+                      "data" : {
+                        "emptyStyle" : [
+                          "LETTERSPACING:1",
+                          "LINEHEIGHT:1.2",
+                          "COLOR:hsl(0, 0%, 100%)",
+                          "FONT:ZurichBT-Bold",
+                          "SIZE:18"
+                        ]
+                      },
+                      "text" : "James Morton",
+                      "key" : "7eqav",
+                      "type" : "unstyled"
+                    }
+                  ],
+                  "__class" : "StyledTextDraft"
+                },
+                "blendingMode" : "normal",
+                "invert" : 0,
+                "sepia" : 0,
+                "centerAnchorX" : 0.5275862068965518,
+                "blurEnabled" : 0,
+                "shadows" : [
+
+                ],
+                "parentid" : "U8ynyvheZ",
+                "brightnessEnabled" : 0,
+                "exportOptions" : [
+
+                ],
+                "name" : null,
+                "saturate" : 100,
+                "height" : 21,
+                "blendingEnabled" : 0,
+                "top" : null,
+                "constraintsLocked" : false,
+                "right" : null,
+                "visible" : true,
+                "centerAnchorY" : 0.9831189710610932,
+                "contrast" : 100,
+                "grayScaleEnabled" : 0,
+                "hueRotate" : 0,
+                "heightFactor" : null,
+                "targetName" : null,
+                "bottom" : 0,
+                "blur" : 12,
+                "autoSize" : true,
+                "invertEnabled" : 0,
+                "width" : 137,
+                "brightness" : 100
+              },
+              {
+                "sepiaEnabled" : 0,
+                "editable" : false,
+                "rotation" : 0,
+                "blurType" : "layer",
+                "__class" : "TextNode",
+                "id" : "f3Ze2ut0v",
+                "saturateEnabled" : 0,
+                "grayscale" : 0,
+                "hueRotateEnabled" : 0,
+                "widthFactor" : null,
+                "opacity" : 1,
+                "contrastEnabled" : 0,
+                "locked" : false,
+                "left" : 0,
+                "styledText" : {
+                  "cached" : {
+                    "size" : {
+                      "width" : 38,
+                      "height" : 24
+                    },
+                    "os" : "10_12",
+                    "width" : 0,
+                    "html" : "<span data-offset-key=\"ap0ld-0-0\" style=\"tab-size:4;font-family:&quot;ZurichBT-Bold&quot;, &quot;Zurich BT&quot;, serif;-webkit-text-fill-color:hsl(0, 0%, 43%);font-size:20px;letter-spacing:1px;line-height:1.2;font-weight:700\"><span data-text=\"true\">658<\/span><\/span>"
+                  },
+                  "entityMap" : {
+
+                  },
+                  "blocks" : [
+                    {
+                      "depth" : 0,
+                      "inlineStyleRanges" : [
+                        {
+                          "length" : 3,
+                          "style" : "LINEHEIGHT:1.2",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 3,
+                          "style" : "LETTERSPACING:1",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 3,
+                          "style" : "COLOR:hsl(0, 0%, 43%)",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 3,
+                          "style" : "FONT:ZurichBT-Bold",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 3,
+                          "style" : "SIZE:20",
+                          "offset" : 0
+                        }
+                      ],
+                      "entityRanges" : [
+
+                      ],
+                      "data" : {
+                        "emptyStyle" : [
+                          "LINEHEIGHT:1.2",
+                          "LETTERSPACING:1",
+                          "COLOR:hsl(0, 0%, 43%)",
+                          "FONT:ZurichBT-Bold",
+                          "SIZE:20"
+                        ]
+                      },
+                      "text" : "658",
+                      "key" : "ap0ld",
+                      "type" : "unstyled"
+                    }
+                  ],
+                  "__class" : "StyledTextDraft"
+                },
+                "blendingMode" : "normal",
+                "invert" : 0,
+                "sepia" : 0,
+                "centerAnchorX" : 0.1310344827586207,
+                "blurEnabled" : 0,
+                "shadows" : [
+
+                ],
+                "parentid" : "U8ynyvheZ",
+                "brightnessEnabled" : 0,
+                "exportOptions" : [
+
+                ],
+                "name" : null,
+                "saturate" : 100,
+                "height" : 24,
+                "blendingEnabled" : 0,
+                "top" : 0,
+                "constraintsLocked" : false,
+                "right" : null,
+                "visible" : true,
+                "centerAnchorY" : 0.01929260450160772,
+                "contrast" : 100,
+                "grayScaleEnabled" : 0,
+                "hueRotate" : 0,
+                "heightFactor" : null,
+                "targetName" : null,
+                "bottom" : null,
+                "blur" : 12,
+                "autoSize" : true,
+                "invertEnabled" : 0,
+                "width" : 38,
+                "brightness" : 100
+              },
+              {
+                "sepiaEnabled" : 0,
+                "editable" : false,
+                "rotation" : 0,
+                "blurType" : "layer",
+                "__class" : "TextNode",
+                "id" : "sLMwLwb5z",
+                "saturateEnabled" : 0,
+                "grayscale" : 0,
+                "hueRotateEnabled" : 0,
+                "widthFactor" : null,
+                "opacity" : 1,
+                "contrastEnabled" : 0,
+                "locked" : false,
+                "left" : 0,
+                "styledText" : {
+                  "cached" : {
+                    "size" : {
+                      "width" : 38,
+                      "height" : 24
+                    },
+                    "os" : "10_12",
+                    "width" : 0,
+                    "html" : "<span data-offset-key=\"ap0ld-0-0\" style=\"tab-size:4;font-family:&quot;ZurichBT-Bold&quot;, &quot;Zurich BT&quot;, serif;-webkit-text-fill-color:hsl(0, 0%, 43%);font-size:20px;letter-spacing:1px;line-height:1.2;font-weight:700\"><span data-text=\"true\">138<\/span><\/span>"
+                  },
+                  "entityMap" : {
+
+                  },
+                  "blocks" : [
+                    {
+                      "depth" : 0,
+                      "inlineStyleRanges" : [
+                        {
+                          "length" : 3,
+                          "style" : "LINEHEIGHT:1.2",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 3,
+                          "style" : "LETTERSPACING:1",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 3,
+                          "style" : "COLOR:hsl(0, 0%, 43%)",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 3,
+                          "style" : "FONT:ZurichBT-Bold",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 3,
+                          "style" : "SIZE:20",
+                          "offset" : 0
+                        }
+                      ],
+                      "entityRanges" : [
+
+                      ],
+                      "data" : {
+                        "emptyStyle" : [
+                          "LINEHEIGHT:1.2",
+                          "LETTERSPACING:1",
+                          "COLOR:hsl(0, 0%, 43%)",
+                          "FONT:ZurichBT-Bold",
+                          "SIZE:20"
+                        ]
+                      },
+                      "text" : "138",
+                      "key" : "ap0ld",
+                      "type" : "unstyled"
+                    }
+                  ],
+                  "__class" : "StyledTextDraft"
+                },
+                "blendingMode" : "normal",
+                "invert" : 0,
+                "sepia" : 0,
+                "centerAnchorX" : 0.1310344827586207,
+                "blurEnabled" : 0,
+                "shadows" : [
+
+                ],
+                "parentid" : "U8ynyvheZ",
+                "brightnessEnabled" : 0,
+                "exportOptions" : [
+
+                ],
+                "name" : null,
+                "saturate" : 100,
+                "height" : 24,
+                "blendingEnabled" : 0,
+                "top" : 60,
+                "constraintsLocked" : false,
+                "right" : null,
+                "visible" : true,
+                "centerAnchorY" : 0.1157556270096463,
+                "contrast" : 100,
+                "grayScaleEnabled" : 0,
+                "hueRotate" : 0,
+                "heightFactor" : null,
+                "targetName" : null,
+                "bottom" : null,
+                "blur" : 12,
+                "autoSize" : true,
+                "invertEnabled" : 0,
+                "width" : 38,
+                "brightness" : 100
+              },
+              {
+                "sepiaEnabled" : 0,
+                "editable" : false,
+                "rotation" : 0,
+                "blurType" : "layer",
+                "__class" : "TextNode",
+                "id" : "JAVKaTPLC",
+                "saturateEnabled" : 0,
+                "grayscale" : 0,
+                "hueRotateEnabled" : 0,
+                "widthFactor" : null,
+                "opacity" : 1,
+                "contrastEnabled" : 0,
+                "locked" : false,
+                "left" : 0,
+                "styledText" : {
+                  "cached" : {
+                    "size" : {
+                      "width" : 26,
+                      "height" : 24
+                    },
+                    "os" : "10_12",
+                    "width" : 0,
+                    "html" : "<span data-offset-key=\"ap0ld-0-0\" style=\"tab-size:4;font-family:&quot;ZurichBT-Bold&quot;, &quot;Zurich BT&quot;, serif;-webkit-text-fill-color:hsl(0, 0%, 43%);font-size:20px;letter-spacing:1px;line-height:1.2;font-weight:700\"><span data-text=\"true\">94<\/span><\/span>"
+                  },
+                  "entityMap" : {
+
+                  },
+                  "blocks" : [
+                    {
+                      "depth" : 0,
+                      "inlineStyleRanges" : [
+                        {
+                          "length" : 2,
+                          "style" : "LINEHEIGHT:1.2",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 2,
+                          "style" : "LETTERSPACING:1",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 2,
+                          "style" : "COLOR:hsl(0, 0%, 43%)",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 2,
+                          "style" : "FONT:ZurichBT-Bold",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 2,
+                          "style" : "SIZE:20",
+                          "offset" : 0
+                        }
+                      ],
+                      "entityRanges" : [
+
+                      ],
+                      "data" : {
+                        "emptyStyle" : [
+                          "LINEHEIGHT:1.2",
+                          "LETTERSPACING:1",
+                          "COLOR:hsl(0, 0%, 43%)",
+                          "FONT:ZurichBT-Bold",
+                          "SIZE:20"
+                        ]
+                      },
+                      "text" : "94",
+                      "key" : "ap0ld",
+                      "type" : "unstyled"
+                    }
+                  ],
+                  "__class" : "StyledTextDraft"
+                },
+                "blendingMode" : "normal",
+                "invert" : 0,
+                "sepia" : 0,
+                "centerAnchorX" : 0.0896551724137931,
+                "blurEnabled" : 0,
+                "shadows" : [
+
+                ],
+                "parentid" : "U8ynyvheZ",
+                "brightnessEnabled" : 0,
+                "exportOptions" : [
+
+                ],
+                "name" : null,
+                "saturate" : 100,
+                "height" : 24,
+                "blendingEnabled" : 0,
+                "top" : 120,
+                "constraintsLocked" : false,
+                "right" : null,
+                "visible" : true,
+                "centerAnchorY" : 0.2122186495176849,
+                "contrast" : 100,
+                "grayScaleEnabled" : 0,
+                "hueRotate" : 0,
+                "heightFactor" : null,
+                "targetName" : null,
+                "bottom" : null,
+                "blur" : 12,
+                "autoSize" : true,
+                "invertEnabled" : 0,
+                "width" : 26,
+                "brightness" : 100
+              }
+            ],
+            "centerAnchorX" : 0.2573333333333334,
+            "id" : "U8ynyvheZ",
+            "exportOptions" : [
+
+            ],
+            "exportIncludesBackground" : true,
+            "grayScaleEnabled" : 0,
+            "constraintsLocked" : false,
+            "blurType" : "layer",
+            "fillColor" : "rgba(255,255,255,1)",
+            "widthFactor" : null,
+            "blendingEnabled" : 0,
+            "grayscale" : 0,
+            "top" : 108,
+            "saturate" : 100,
+            "left" : 24,
+            "locked" : false,
+            "sepiaEnabled" : 0,
+            "fillGradient" : {
+              "end" : "rgba(0,0,0,0)",
+              "alpha" : 1,
+              "angle" : 0,
+              "__class" : "LinearGradient",
+              "start" : "black"
+            },
+            "blur" : 12,
+            "radiusTopLeft" : 0,
+            "sepia" : 0,
+            "borderColor" : "#222",
+            "rotation" : 0,
+            "borderLeft" : 1,
+            "fillEnabled" : false,
+            "right" : null,
+            "opacity" : 1,
+            "name" : "data2",
+            "blendingMode" : "normal",
+            "contrast" : 100,
+            "centerAnchorY" : 0.5160098522167488,
+            "height" : 622,
+            "borderWidth" : 1,
+            "radiusIsRelative" : false,
+            "hueRotate" : 0,
+            "borderStyle" : "solid",
+            "brightnessEnabled" : 0,
+            "borderPerSide" : false,
+            "saturateEnabled" : 0,
+            "aspectRatioLocked" : false,
+            "borderRight" : 1,
+            "parentid" : "g99FGlm0Y",
+            "radiusBottomLeft" : 0,
+            "boxShadows" : [
+
+            ],
+            "contrastEnabled" : 0,
+            "borderEnabled" : 0,
+            "radiusPerCorner" : false,
+            "radiusTopRight" : 0,
+            "invert" : 0,
+            "__class" : "FrameNode",
+            "clip" : false,
+            "visible" : true,
+            "fillType" : "color",
+            "invertEnabled" : 0,
+            "heightFactor" : null,
+            "width" : 145,
+            "borderBottom" : 1,
+            "blurEnabled" : 0,
+            "deviceType" : null,
+            "bottom" : 82,
+            "borderTop" : 1,
+            "targetName" : "data2",
+            "radiusBottomRight" : 0,
+            "brightness" : 100
+          }
+        ],
+        "centerAnchorX" : 0.5,
+        "id" : "g99FGlm0Y",
+        "exportOptions" : [
+
+        ],
+        "exportIncludesBackground" : true,
+        "grayScaleEnabled" : 0,
+        "constraintsLocked" : false,
+        "blurType" : "layer",
+        "fillColor" : "rgba(255,255,255,1)",
+        "widthFactor" : null,
+        "blendingEnabled" : 0,
+        "grayscale" : 0,
+        "top" : 0,
+        "saturate" : 100,
+        "left" : 0,
+        "locked" : false,
+        "sepiaEnabled" : 0,
+        "fillGradient" : {
+          "end" : "rgba(0,0,0,0)",
+          "alpha" : 1,
+          "angle" : 0,
+          "__class" : "LinearGradient",
+          "start" : "black"
+        },
+        "blur" : 12,
+        "radiusTopLeft" : 0,
+        "sepia" : 0,
+        "borderColor" : "#222",
+        "rotation" : 0,
+        "borderLeft" : 1,
+        "fillEnabled" : true,
+        "right" : null,
+        "opacity" : 1,
+        "name" : "first",
+        "blendingMode" : "normal",
+        "contrast" : 100,
+        "centerAnchorY" : 0.5,
+        "height" : 812,
+        "borderWidth" : 1,
+        "radiusIsRelative" : false,
+        "hueRotate" : 0,
+        "borderStyle" : "solid",
+        "brightnessEnabled" : 0,
+        "borderPerSide" : false,
+        "saturateEnabled" : 0,
+        "aspectRatioLocked" : false,
+        "borderRight" : 1,
+        "parentid" : "k0DWlBhnQ",
+        "radiusBottomLeft" : 0,
+        "boxShadows" : [
+
+        ],
+        "contrastEnabled" : 0,
+        "borderEnabled" : 0,
+        "radiusPerCorner" : false,
+        "radiusTopRight" : 0,
+        "invert" : 0,
+        "__class" : "FrameNode",
+        "clip" : true,
+        "visible" : true,
+        "fillType" : "color",
+        "invertEnabled" : 0,
+        "heightFactor" : null,
+        "width" : 375,
+        "borderBottom" : 1,
+        "blurEnabled" : 0,
+        "deviceType" : "apple-iphone-x-space-gray",
+        "bottom" : null,
+        "borderTop" : 1,
+        "targetName" : "first",
+        "radiusBottomRight" : 0,
+        "brightness" : 100
+      }
+    ]
+  }
+}
